@@ -39,29 +39,13 @@ user_data = make_request(user_url)
 if user_data:
     user_id = user_data["data"]["id"]
 
-    # 2️⃣ 유저 정보에서 고정 트윗 ID 가져오기
-    user_info_url = f"https://api.twitter.com/2/users/{user_id}?tweet.fields=pinned_tweet_id"
-    user_info = make_request(user_info_url)
-    
-    pinned_tweet_id = None
-    pinned_tweet = None
-
-    if user_info:
-        pinned_tweet_id = user_info["data"].get("pinned_tweet_id")
-        
-        # 3️⃣ 고정된 트윗 가져오기
-        if pinned_tweet_id:
-            pinned_tweet_url = f"https://api.twitter.com/2/tweets/{pinned_tweet_id}"
-            pinned_tweet = make_request(pinned_tweet_url)
-
-    # 4️⃣ 최신 트윗 가져오기
+    # 2️⃣ 최신 트윗 가져오기
     tweets_url = f"https://api.twitter.com/2/users/{user_id}/tweets?max_results=2"
     tweets = make_request(tweets_url)
 
     if tweets:
         # JSON 데이터 구성
         result = {
-            "pinned_tweet": pinned_tweet,
             "latest_tweets": tweets
         }
 
@@ -69,4 +53,4 @@ if user_data:
         with open("tweets.json", "w", encoding="utf-8") as f:
             json.dump(result, f, ensure_ascii=False, indent=4)
 
-        print("✅ 최신 트윗 + 고정 트윗을 tweets.json에 저장 완료!")
+        print("✅ 최신 트윗을 tweets.json에 저장 완료!")
