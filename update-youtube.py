@@ -4,7 +4,7 @@ import os
 
 # 환경 변수에서 YouTube API 키 가져오기
 YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY")
-CHANNEL_ID = "UCKgGOhz6xr0_FjDo2_i4oPA"  # 앤팀(＆TEAM) 공식 유튜브 채널 ID
+CHANNEL_ID = "UCHD1jo5RhijLfx5-0Ehe_cg"  # 앤팀(＆TEAM) 공식 유튜브 채널 ID
 
 # YouTube Data API 요청 URL
 url = f"https://www.googleapis.com/youtube/v3/search?key={YOUTUBE_API_KEY}&channelId={CHANNEL_ID}&part=snippet,id&order=date&maxResults=1"
