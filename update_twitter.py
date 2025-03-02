@@ -5,8 +5,8 @@ import os
 # 환경 변수에서 Bearer Token 가져오기
 BEARER_TOKEN = os.getenv("TWITTER_BEARER_TOKEN")
 
-# 트위터 계정의 사용자명 (예: BTS_twt)
-TWITTER_USERNAME = "BTS_twt"
+# 트위터 계정의 사용자명
+TWITTER_USERNAME = "andTEAMofficial"
 
 # 트위터 API URL
 API_URL = f"https://api.twitter.com/2/users/by/username/{TWITTER_USERNAME}"
