@@ -55,7 +55,7 @@ if user_data:
             pinned_tweet = make_request(pinned_tweet_url)
 
     # 4️⃣ 최신 트윗 가져오기
-    tweets_url = f"https://api.twitter.com/2/users/{user_id}/tweets?max_results=5"
+    tweets_url = f"https://api.twitter.com/2/users/{user_id}/tweets?max_results=2"
     tweets = make_request(tweets_url)
 
     if tweets:
