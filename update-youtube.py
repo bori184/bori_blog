@@ -13,7 +13,7 @@ response = requests.get(url)
 data = response.json()
 
 print("Youtube API 응답:")
-print(json.dumps(data, indent=4, ensuer_ascii=False))
+print(json.dumps(data, indent=4, ensure_ascii=False))
 
 if response.status_code == 200:
     data = response.json()
