@@ -10,6 +10,11 @@ CHANNEL_ID = "UCKgGOhz6xr0_FjDo2_i4oPA"  # 앤팀(＆TEAM) 공식 유튜브 채�
 url = f"https://www.googleapis.com/youtube/v3/search?key={YOUTUBE_API_KEY}&channelId={CHANNEL_ID}&part=snippet,id&order=date&maxResults=1"
 
 response = requests.get(url)
+data = response.json()
+
+print("Youtube API 응답:")
+print(json.dumps(data, indent=4, ensuer_ascii=False))
+
 if response.status_code == 200:
     data = response.json()
     
