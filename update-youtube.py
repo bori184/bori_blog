@@ -12,8 +12,8 @@ channel_response = requests.get(channel_url).json()
 if "items" in channel_response and len(channel_response["items"]) > 0:
     uploads_playlist_id = channel_response["items"][0]["contentDetails"]["relatedPlaylists"]["uploads"]
 
-    # 2️⃣ 최신 15개 영상 가져오기 (일반 영상 & 쇼츠 구분)
-    playlist_url = f"https://www.googleapis.com/youtube/v3/playlistItems?key={YOUTUBE_API_KEY}&playlistId={uploads_playlist_id}&part=snippet&maxResults=15"
+    # 2️⃣ 최신 15개 영상 가져오기
+    playlist_url = f"https://www.googleapis.com/youtube/v3/playlistItems?key={YOUTUBE_API_KEY}&playlistId={uploads_playlist_id}&part=snippet,contentDetails&maxResults=15"
     playlist_response = requests.get(playlist_url).json()
 
     latest_video_id = None
@@ -24,19 +24,32 @@ if "items" in channel_response and len(channel_response["items"]) > 0:
             video_id = item["snippet"]["resourceId"]["videoId"]
             title = item["snippet"]["title"]
 
-            # 쇼츠인지 확인 (썸네일 URL에 "shorts" 포함 여부 체크)
-            if "shorts" in item["snippet"]["thumbnails"]["default"]["url"]:
-                if len(latest_shorts_ids) < 4:  # 쇼츠 4개 저장
+            # 🛠️ API 응답을 출력하여 디버깅 가능하게 설정
+            print(f"📌 {title} (ID: {video_id})")
+
+            # 쇼츠 구분 방법: 제목에 '#Shorts' 포함 여부 OR 길이가 60초 이하인지 확인
+            is_shorts = "#Shorts" in title or item["contentDetails"].get("duration", "").startswith("PT") and "M" not in item["contentDetails"]["duration"]
+
+            if is_shorts:
+                if len(latest_shorts_ids) < 4:  # 최대 4개까지 쇼츠 저장
                     latest_shorts_ids.append(video_id)
             else:
                 if latest_video_id is None:
-                    latest_video_id = video_id  # 일반 영상 1개 저장
-            
-            # 일반 영상 1개 + 쇼츠 4개를 모두 찾으면 중단
+                    latest_video_id = video_id  # 최신 일반 영상 1개 저장
+
+            # 최신 일반 영상 1개 + 쇼츠 4개를 모두 찾으면 중단
             if latest_video_id and len(latest_shorts_ids) == 4:
                 break
 
-        # JSON 파일 저장
+        # 📌 최신 일반 영상이 선택되지 않았다면, API에서 첫 번째 일반 영상을 다시 탐색
+        if latest_video_id is None:
+            for item in playlist_response["items"]:
+                video_id = item["snippet"]["resourceId"]["videoId"]
+                if video_id not in latest_shorts_ids:  # 이미 쇼츠로 선택되지 않은 경우
+                    latest_video_id = video_id
+                    break
+
+        # ✅ JSON 파일 저장
         result = {
             "latest_video_id": latest_video_id,
             "latest_shorts_ids": latest_shorts_ids
