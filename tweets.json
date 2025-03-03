@@ -2,46 +2,46 @@
     "latest_tweets": {
         "data": [
             {
+                "text": "RT @Gashapon_Bandai: 【商品情報】\n／\n全27種の豪華ラインナップ🐾\n「&amp;TEAM アクリルチャーム」登場！\n＼\n\n&amp;TEAMのアクリルチャームがガシャポンに登場！\n「五月雨 (Samidare)」、「青嵐 (Aoarashi)」、『雪明かり (Yukiak…",
+                "id": "1896395182708535722",
+                "edit_history_tweet_ids": [
+                    "1896395182708535722"
+                ]
+            },
+            {
+                "text": "日本テレビ系『DayDay.』に #FUMA がコメンテーターとして生出演！\nぜひご覧ください！\n\n放送日時：3月4日(火) 9:00〜11:10\n番組HP：https://t.co/jWFsRYXgPV\n\n#DayDay.\n#andTEAM",
+                "id": "1896387555349909735",
+                "edit_history_tweet_ids": [
+                    "1896387555349909735"
+                ]
+            },
+            {
+                "text": "RT @prada_japan: #プラダ 2025年秋冬レディスファッションショーへ向かう、@andTEAMofficial のJOさん、HARUAさん。\n\n初めて訪れるミラノでゲストとしてショーへ出席、最新コレクションをご覧いただきました。\n\nhttps://t.co/dy…",
                 "id": "1896168096211317110",
                 "edit_history_tweet_ids": [
                     "1896168096211317110"
-                ],
-                "text": "RT @prada_japan: #プラダ 2025年秋冬レディスファッションショーへ向かう、@andTEAMofficial のJOさん、HARUAさん。\n\n初めて訪れるミラノでゲストとしてショーへ出席、最新コレクションをご覧いただきました。\n\nhttps://t.co/dy…"
+                ]
             },
             {
+                "text": "RT @fashionsnap: 【新着】&amp;TEAMのJOとHARUAが「プラダ」2025年秋冬ウィメンズコレクションに出席。初めてのミラノで体験した初めてのショーを速報レポート。滞在ホテルでの撮り下ろしカットも。(PR)\nhttps://t.co/3o8JboO8b8\n@pr…",
                 "id": "1896168058097713591",
                 "edit_history_tweet_ids": [
                     "1896168058097713591"
-                ],
-                "text": "RT @fashionsnap: 【新着】&amp;TEAMのJOとHARUAが「プラダ」2025年秋冬ウィメンズコレクションに出席。初めてのミラノで体験した初めてのショーを速報レポート。滞在ホテルでの撮り下ろしカットも。(PR)\nhttps://t.co/3o8JboO8b8\n@pr…"
+                ]
             },
             {
+                "text": "RT @Prada: Prada Ambassador Chen Haoyu and Jo &amp; Harua attend the Prada FW25 Womenswear Show in Milan, at the Fondazione Prada’s Deposito.…",
                 "id": "1896168018490929406",
                 "edit_history_tweet_ids": [
                     "1896168018490929406"
-                ],
-                "text": "RT @Prada: Prada Ambassador Chen Haoyu and Jo &amp; Harua attend the Prada FW25 Womenswear Show in Milan, at the Fondazione Prada’s Deposito.…"
-            },
-            {
-                "id": "1896093112902058459",
-                "edit_history_tweet_ids": [
-                    "1896093112902058459"
-                ],
-                "text": "[March] Happy Birthday to LUNÉ\n🔗 https://t.co/p38QmEChcb\n\n#andTEAM #앤팀 #LUNÉ_MEMBERSHIP"
-            },
-            {
-                "id": "1896081284516233324",
-                "edit_history_tweet_ids": [
-                    "1896081284516233324"
-                ],
-                "text": "&amp;TEAM FANMEETING ‘&amp;❤︎’ Behind Photo\n\n#andTEAM\n#and_HEART https://t.co/SLtRkzUYsh"
+                ]
             }
         ],
         "meta": {
-            "next_token": "7140dibdnow9c7btw4b3nyth6e5um3jfozhjtd7bbyh4k",
+            "next_token": "7140dibdnow9c7btw4b3nytrvts88qoiylptmjk6gshme",
             "result_count": 5,
-            "newest_id": "1896168096211317110",
-            "oldest_id": "1896081284516233324"
+            "newest_id": "1896395182708535722",
+            "oldest_id": "1896168018490929406"
         }
     }
 }
