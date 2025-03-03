@@ -50,6 +50,9 @@ if "items" in channel_response and len(channel_response["items"]) > 0:
         with open(file_path, "w", encoding="utf-8") as f:
             json.dump(new_data, f, ensure_ascii=False, indent=4)
 
+        # ✅ Git이 변경 사항을 감지하도록 파일 수정 시간 변경
+        os.utime(file_path, None)
+
         print("✅ 최신 일반 영상 1개 & 쇼츠 4개를 youtube.json에 저장 완료!")
 
     else:
