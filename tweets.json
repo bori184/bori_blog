@@ -2,46 +2,46 @@
     "latest_tweets": {
         "data": [
             {
-                "text": "RT @Gashapon_Bandai: 【商品情報】\n／\n全27種の豪華ラインナップ🐾\n「&amp;TEAM アクリルチャーム」登場！\n＼\n\n&amp;TEAMのアクリルチャームがガシャポンに登場！\n「五月雨 (Samidare)」、「青嵐 (Aoarashi)」、『雪明かり (Yukiak…",
+                "id": "1896410336208793963",
+                "edit_history_tweet_ids": [
+                    "1896410336208793963"
+                ],
+                "text": "RT @ribon_comic: 🌸#りぼん 4月号発売中🌸\n \n⋆⸜ ♡3号連続グラビア連載♡ ⸝⋆\n〖Honey Sodaな&amp;TEAM！〗\n\nアニメ『ハニーレモンソーダ』のOP/EDテーマを歌う\n&amp;TEAM (@andTEAMofficial)\nが3号連続でトリオで登場♡…"
+            },
+            {
+                "id": "1896402655381242160",
+                "edit_history_tweet_ids": [
+                    "1896402655381242160"
+                ],
+                "text": "RT @ntv_DayDay: ＼あす3/4(火)の #DayDay.🌱／\n\n&amp;TEAM #FUMA さん🐳 (#andTEAM)\n曜日メンバーで生出演🙌🏻\n@andTEAMofficial \n\n番組では\nFUMAさんへの質問を大募集🙋🏻ˊ˗\n\n@ntv_DayDay をフォロ…"
+            },
+            {
                 "id": "1896395182708535722",
                 "edit_history_tweet_ids": [
                     "1896395182708535722"
-                ]
+                ],
+                "text": "RT @Gashapon_Bandai: 【商品情報】\n／\n全27種の豪華ラインナップ🐾\n「&amp;TEAM アクリルチャーム」登場！\n＼\n\n&amp;TEAMのアクリルチャームがガシャポンに登場！\n「五月雨 (Samidare)」、「青嵐 (Aoarashi)」、『雪明かり (Yukiak…"
             },
             {
-                "text": "日本テレビ系『DayDay.』に #FUMA がコメンテーターとして生出演！\nぜひご覧ください！\n\n放送日時：3月4日(火) 9:00〜11:10\n番組HP：https://t.co/jWFsRYXgPV\n\n#DayDay.\n#andTEAM",
                 "id": "1896387555349909735",
                 "edit_history_tweet_ids": [
                     "1896387555349909735"
-                ]
+                ],
+                "text": "日本テレビ系『DayDay.』に #FUMA がコメンテーターとして生出演！\nぜひご覧ください！\n\n放送日時：3月4日(火) 9:00〜11:10\n番組HP：https://t.co/jWFsRYXgPV\n\n#DayDay.\n#andTEAM"
             },
             {
-                "text": "RT @prada_japan: #プラダ 2025年秋冬レディスファッションショーへ向かう、@andTEAMofficial のJOさん、HARUAさん。\n\n初めて訪れるミラノでゲストとしてショーへ出席、最新コレクションをご覧いただきました。\n\nhttps://t.co/dy…",
                 "id": "1896168096211317110",
                 "edit_history_tweet_ids": [
                     "1896168096211317110"
-                ]
-            },
-            {
-                "text": "RT @fashionsnap: 【新着】&amp;TEAMのJOとHARUAが「プラダ」2025年秋冬ウィメンズコレクションに出席。初めてのミラノで体験した初めてのショーを速報レポート。滞在ホテルでの撮り下ろしカットも。(PR)\nhttps://t.co/3o8JboO8b8\n@pr…",
-                "id": "1896168058097713591",
-                "edit_history_tweet_ids": [
-                    "1896168058097713591"
-                ]
-            },
-            {
-                "text": "RT @Prada: Prada Ambassador Chen Haoyu and Jo &amp; Harua attend the Prada FW25 Womenswear Show in Milan, at the Fondazione Prada’s Deposito.…",
-                "id": "1896168018490929406",
-                "edit_history_tweet_ids": [
-                    "1896168018490929406"
-                ]
+                ],
+                "text": "RT @prada_japan: #プラダ 2025年秋冬レディスファッションショーへ向かう、@andTEAMofficial のJOさん、HARUAさん。\n\n初めて訪れるミラノでゲストとしてショーへ出席、最新コレクションをご覧いただきました。\n\nhttps://t.co/dy…"
             }
         ],
         "meta": {
-            "next_token": "7140dibdnow9c7btw4b3nytrvts88qoiylptmjk6gshme",
             "result_count": 5,
-            "newest_id": "1896395182708535722",
-            "oldest_id": "1896168018490929406"
+            "newest_id": "1896410336208793963",
+            "oldest_id": "1896168096211317110",
+            "next_token": "7140dibdnow9c7btw4b3nytrvts89ydvzlc6249hnsh80"
         }
     }
 }
