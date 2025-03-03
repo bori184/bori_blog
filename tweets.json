@@ -38,10 +38,10 @@
             }
         ],
         "meta": {
+            "next_token": "7140dibdnow9c7btw4b3nyth6e5um3jfozhjtd7bbyh4k",
             "result_count": 5,
             "newest_id": "1896168096211317110",
-            "oldest_id": "1896081284516233324",
-            "next_token": "7140dibdnow9c7btw4b3nyth6e5um3jfozhjtd7bbyh4k"
+            "oldest_id": "1896081284516233324"
         }
     }
 }
