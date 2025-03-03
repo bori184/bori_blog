@@ -24,41 +24,34 @@ if "items" in channel_response and len(channel_response["items"]) > 0:
             video_id = item["snippet"]["resourceId"]["videoId"]
             title = item["snippet"]["title"]
 
-            # 🛠️ API 응답을 출력하여 디버깅 가능하게 설정
-            print(f"📌 {title} (ID: {video_id})")
+            print(f"📌 {title} (ID: {video_id})")  # API 응답 출력
 
             # 쇼츠 구분 방법: 제목에 '#Shorts' 포함 여부 OR 길이가 60초 이하인지 확인
             is_shorts = "#Shorts" in title or item["contentDetails"].get("duration", "").startswith("PT") and "M" not in item["contentDetails"]["duration"]
 
             if is_shorts:
-                if len(latest_shorts_ids) < 4:  # 최대 4개까지 쇼츠 저장
+                if len(latest_shorts_ids) < 4:
                     latest_shorts_ids.append(video_id)
             else:
                 if latest_video_id is None:
-                    latest_video_id = video_id  # 최신 일반 영상 1개 저장
+                    latest_video_id = video_id
 
-            # 최신 일반 영상 1개 + 쇼츠 4개를 모두 찾으면 중단
             if latest_video_id and len(latest_shorts_ids) == 4:
                 break
 
-        # 📌 최신 일반 영상이 선택되지 않았다면, API에서 첫 번째 일반 영상을 다시 탐색
-        if latest_video_id is None:
-            for item in playlist_response["items"]:
-                video_id = item["snippet"]["resourceId"]["videoId"]
-                if video_id not in latest_shorts_ids:  # 이미 쇼츠로 선택되지 않은 경우
-                    latest_video_id = video_id
-                    break
-
-        # ✅ JSON 파일 저장
-        result = {
+        # ✅ 기존 JSON과 비교하지 않고 무조건 덮어쓰기
+        new_data = {
             "latest_video_id": latest_video_id,
             "latest_shorts_ids": latest_shorts_ids
         }
 
-        with open("youtube.json", "w", encoding="utf-8") as f:
-            json.dump(result, f, ensure_ascii=False, indent=4)
+        file_path = "youtube.json"
+
+        with open(file_path, "w", encoding="utf-8") as f:
+            json.dump(new_data, f, ensure_ascii=False, indent=4)
 
         print("✅ 최신 일반 영상 1개 & 쇼츠 4개를 youtube.json에 저장 완료!")
+
     else:
         print("❌ 최신 영상을 찾을 수 없습니다.")
 else:
