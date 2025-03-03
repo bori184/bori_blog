@@ -40,17 +40,18 @@ if user_data:
     user_id = user_data["data"]["id"]
 
     # 2️⃣ 최신 트윗 가져오기
-    tweets_url = f"https://api.twitter.com/2/users/{user_id}/tweets?max_results=2"
+    tweets_url = f"https://api.twitter.com/2/users/{user_id}/tweets?max_results=5"  # 트윗 개수를 5개로 확장 가능
     tweets = make_request(tweets_url)
 
     if tweets:
-        # JSON 데이터 구성
+        # ✅ 기존 JSON 비교 없이 항상 덮어쓰기
         result = {
             "latest_tweets": tweets
         }
 
-        # JSON 파일 저장
-        with open("tweets.json", "w", encoding="utf-8") as f:
+        file_path = "tweets.json"
+
+        with open(file_path, "w", encoding="utf-8") as f:
             json.dump(result, f, ensure_ascii=False, indent=4)
 
         print("✅ 최신 트윗을 tweets.json에 저장 완료!")
