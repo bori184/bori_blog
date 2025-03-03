@@ -40,7 +40,7 @@ if user_data:
     user_id = user_data["data"]["id"]
 
     # 2️⃣ 최신 트윗 가져오기
-    tweets_url = f"https://api.twitter.com/2/users/{user_id}/tweets?max_results=5"  # 트윗 개수를 5개로 확장 가능
+    tweets_url = f"https://api.twitter.com/2/users/{user_id}/tweets?max_results=3"  # 트윗 개수를 3개로 확장 가능
     tweets = make_request(tweets_url)
 
     if tweets:
