@@ -2,40 +2,40 @@
     "latest_tweets": {
         "data": [
             {
-                "id": "1896517131296182645",
-                "text": "fit check✨\n\nhttps://t.co/NxTq0EszhY\n\n@prada\n#PradaFW25\n#MiucciaPrada\n#RafSimons\n#andTEAM #JO #HARUA",
+                "edit_history_tweet_ids": [
+                    "1896749940313043187"
+                ],
+                "id": "1896749940313043187",
+                "text": "[#今日のandTEAM] 250304\n日本テレビ系『DayDay.』\n\n#DayDay.\n#andTEAM #FUMA https://t.co/1gfOoImc7g"
+            },
+            {
+                "edit_history_tweet_ids": [
+                    "1896713361318203763"
+                ],
+                "id": "1896713361318203763",
+                "text": "RT @ntv_DayDay: ＼ #DayDay.🌱放送中❗／\n\n曜日メンバー🌟\n﹉﹉﹉﹉﹉﹉﹉\n#FUMA さん(#andTEAM)🐳 \nスタジオ生出演❣️\n@andTEAMofficial\n\n11時ごろ～のコーナー\n【みんなでDayDay.】では質問を募集💡\n(※一部地域…"
+            },
+            {
+                "edit_history_tweet_ids": [
+                    "1896697435566882913"
+                ],
+                "id": "1896697435566882913",
+                "text": "RT @andteam_shaberi: /／\n\n#エンしゃべ\n第5回配信START！\n\n \\＼ \n\n第5回は#HARUA , #TAKI , #MAKI が出演！👀\nマンネたちの不満が爆発しています💢\n🎥 https://t.co/ZJPeRUDZg3\n\n#andTEAM #…"
+            },
+            {
                 "edit_history_tweet_ids": [
                     "1896516779406688259",
                     "1896517131296182645"
-                ]
-            },
-            {
-                "id": "1896410336208793963",
-                "text": "RT @ribon_comic: 🌸#りぼん 4月号発売中🌸\n \n⋆⸜ ♡3号連続グラビア連載♡ ⸝⋆\n〖Honey Sodaな&amp;TEAM！〗\n\nアニメ『ハニーレモンソーダ』のOP/EDテーマを歌う\n&amp;TEAM (@andTEAMofficial)\nが3号連続でトリオで登場♡…",
-                "edit_history_tweet_ids": [
-                    "1896410336208793963"
-                ]
-            },
-            {
-                "id": "1896402655381242160",
-                "text": "RT @ntv_DayDay: ＼あす3/4(火)の #DayDay.🌱／\n\n&amp;TEAM #FUMA さん🐳 (#andTEAM)\n曜日メンバーで生出演🙌🏻\n@andTEAMofficial \n\n番組では\nFUMAさんへの質問を大募集🙋🏻ˊ˗\n\n@ntv_DayDay をフォロ…",
-                "edit_history_tweet_ids": [
-                    "1896402655381242160"
-                ]
-            },
-            {
-                "id": "1896395182708535722",
-                "text": "RT @Gashapon_Bandai: 【商品情報】\n／\n全27種の豪華ラインナップ🐾\n「&amp;TEAM アクリルチャーム」登場！\n＼\n\n&amp;TEAMのアクリルチャームがガシャポンに登場！\n「五月雨 (Samidare)」、「青嵐 (Aoarashi)」、『雪明かり (Yukiak…",
-                "edit_history_tweet_ids": [
-                    "1896395182708535722"
-                ]
+                ],
+                "id": "1896517131296182645",
+                "text": "fit check✨\n\nhttps://t.co/NxTq0EszhY\n\n@prada\n#PradaFW25\n#MiucciaPrada\n#RafSimons\n#andTEAM #JO #HARUA"
             }
         ],
         "meta": {
-            "next_token": "7140dibdnow9c7btw4b3nyudl7rfvrg6tpszh3v5m4vg2",
             "result_count": 4,
-            "newest_id": "1896517131296182645",
-            "oldest_id": "1896395182708535722"
+            "newest_id": "1896749940313043187",
+            "oldest_id": "1896517131296182645",
+            "next_token": "7140dibdnow9c7btw4b3nyuytxqzt4mosw6c046xwg8xl"
         }
     }
 }
