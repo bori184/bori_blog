@@ -3,6 +3,13 @@
         "data": [
             {
                 "edit_history_tweet_ids": [
+                    "1896840578027184295"
+                ],
+                "id": "1896840578027184295",
+                "text": "RT @MnetJP_Ch: ˗ˏˋ ALL!Light! &amp;TEAM ～LUNÉ大作戦～ ˎˊ˗\n\n明日21時から＜第9話＞😊 \n\n#EJ #FUMA #YUMA 人気店で本格お手伝い🍜\n#HARUA #TAKI #MAKI 子供に大人気💕\n#K #NICHOLAS #JO…"
+            },
+            {
+                "edit_history_tweet_ids": [
                     "1896749940313043187"
                 ],
                 "id": "1896749940313043187",
@@ -32,9 +39,9 @@
             }
         ],
         "meta": {
-            "next_token": "7140dibdnow9c7btw4b3nyuytxqzt4mosw6c046xwg8xl",
-            "result_count": 4,
-            "newest_id": "1896749940313043187",
+            "next_token": "7140dibdnow9c7btw4b3nyuytxyhu5ou9fnx5newxmxit",
+            "result_count": 5,
+            "newest_id": "1896840578027184295",
             "oldest_id": "1896517131296182645"
         }
     }
