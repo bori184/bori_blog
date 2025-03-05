@@ -2,46 +2,46 @@
     "latest_tweets": {
         "data": [
             {
+                "id": "1897240865678238023",
+                "text": "RT @toppa_ntv: 📣収録アフタートーク！\n／\n👦🏻子どもの頃から観てた番組に出た？\n＼\n\nまだ19歳の &amp;TEAM #MAKI さんは\n中学生の時から突破ファイルを観てた！？\n\nありがとうございます😭🙏✨\n\n#andTEAM #FUMA #兼近大樹 #EXIT\n#サ…",
+                "edit_history_tweet_ids": [
+                    "1897240865678238023"
+                ]
+            },
+            {
+                "id": "1897205883819692464",
+                "text": "RT @seganewsnavi: ＼#andTEAMセガプライズ／\n「&amp;TEAM」の撮りおろしデザイン第2弾のアクリルキーチェーンとビッグアクリルスタンドが3月7日より順次登場✨\n\n▼取扱店舗など詳細はこちら\nhttps://t.co/UdVIA84Ewj\n※製品の導入時期や…",
+                "edit_history_tweet_ids": [
+                    "1897205883819692464"
+                ]
+            },
+            {
+                "id": "1897104780020810013",
+                "text": "&amp;TEAM 3rd SINGLE「Go in Blind (月狼)」メンバー個別ウルフロングトーク会🐺ご応募は明日3月6日(木)17:59まで📢\n\n対象商品購入でご応募いただけます！\n\n🛒&amp;TEAM Weverse Shop\nhttps://t.co/yzDt5DuiZ7\n\n🛒UNIVERSAL MUSIC STORE\nhttps://t.co/B5QYYp4Mx9\n\n#andTEAM\n#GoinBlind https://t.co/vLTydtXXS4",
                 "edit_history_tweet_ids": [
                     "1897104780020810013"
-                ],
-                "text": "&amp;TEAM 3rd SINGLE「Go in Blind (月狼)」メンバー個別ウルフロングトーク会🐺ご応募は明日3月6日(木)17:59まで📢\n\n対象商品購入でご応募いただけます！\n\n🛒&amp;TEAM Weverse Shop\nhttps://t.co/yzDt5DuiZ7\n\n🛒UNIVERSAL MUSIC STORE\nhttps://t.co/B5QYYp4Mx9\n\n#andTEAM\n#GoinBlind https://t.co/vLTydtXXS4",
-                "id": "1897104780020810013"
+                ]
             },
             {
+                "id": "1897089680316772432",
+                "text": "TBS系『ラヴィット！』に #K の生出演が決定！\nぜひご覧ください！\n\n■番組詳細\n放送日：2025年3月6日(木)8:00～9:55\n番組HP：https://t.co/yoRQeH2Zgg\n\n#ラヴィット！\n#andTEAM",
                 "edit_history_tweet_ids": [
                     "1897089680316772432"
-                ],
-                "text": "TBS系『ラヴィット！』に #K の生出演が決定！\nぜひご覧ください！\n\n■番組詳細\n放送日：2025年3月6日(木)8:00～9:55\n番組HP：https://t.co/yoRQeH2Zgg\n\n#ラヴィット！\n#andTEAM",
-                "id": "1897089680316772432"
+                ]
             },
             {
+                "id": "1896840578027184295",
+                "text": "RT @MnetJP_Ch: ˗ˏˋ ALL!Light! &amp;TEAM ～LUNÉ大作戦～ ˎˊ˗\n\n明日21時から＜第9話＞😊 \n\n#EJ #FUMA #YUMA 人気店で本格お手伝い🍜\n#HARUA #TAKI #MAKI 子供に大人気💕\n#K #NICHOLAS #JO…",
                 "edit_history_tweet_ids": [
                     "1896840578027184295"
-                ],
-                "text": "RT @MnetJP_Ch: ˗ˏˋ ALL!Light! &amp;TEAM ～LUNÉ大作戦～ ˎˊ˗\n\n明日21時から＜第9話＞😊 \n\n#EJ #FUMA #YUMA 人気店で本格お手伝い🍜\n#HARUA #TAKI #MAKI 子供に大人気💕\n#K #NICHOLAS #JO…",
-                "id": "1896840578027184295"
-            },
-            {
-                "edit_history_tweet_ids": [
-                    "1896749940313043187"
-                ],
-                "text": "[#今日のandTEAM] 250304\n日本テレビ系『DayDay.』\n\n#DayDay.\n#andTEAM #FUMA https://t.co/1gfOoImc7g",
-                "id": "1896749940313043187"
-            },
-            {
-                "edit_history_tweet_ids": [
-                    "1896713361318203763"
-                ],
-                "text": "RT @ntv_DayDay: ＼ #DayDay.🌱放送中❗／\n\n曜日メンバー🌟\n﹉﹉﹉﹉﹉﹉﹉\n#FUMA さん(#andTEAM)🐳 \nスタジオ生出演❣️\n@andTEAMofficial\n\n11時ごろ～のコーナー\n【みんなでDayDay.】では質問を募集💡\n(※一部地域…",
-                "id": "1896713361318203763"
+                ]
             }
         ],
         "meta": {
-            "next_token": "7140dibdnow9c7btw4b3nyvkerutiawkicgaixae6oppv",
+            "next_token": "7140dibdnow9c7btw4b3nyvvbqgkefd10uc28goglmuk5",
             "result_count": 5,
-            "newest_id": "1897104780020810013",
-            "oldest_id": "1896713361318203763"
+            "newest_id": "1897240865678238023",
+            "oldest_id": "1896840578027184295"
         }
     }
 }
