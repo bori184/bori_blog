@@ -2,6 +2,20 @@
     "latest_tweets": {
         "data": [
             {
+                "text": "&amp;TEAM 3rd SINGLE「Go in Blind (月狼)」メンバー個別ウルフロングトーク会🐺ご応募は明日3月6日(木)17:59まで📢\n\n対象商品購入でご応募いただけます！\n\n🛒&amp;TEAM Weverse Shop\nhttps://t.co/yzDt5DuiZ7\n\n🛒UNIVERSAL MUSIC STORE\nhttps://t.co/B5QYYp4Mx9\n\n#andTEAM\n#GoinBlind https://t.co/vLTydtXXS4",
+                "id": "1897104780020810013",
+                "edit_history_tweet_ids": [
+                    "1897104780020810013"
+                ]
+            },
+            {
+                "text": "TBS系『ラヴィット！』に #K の生出演が決定！\nぜひご覧ください！\n\n■番組詳細\n放送日：2025年3月6日(木)8:00～9:55\n番組HP：https://t.co/yoRQeH2Zgg\n\n#ラヴィット！\n#andTEAM",
+                "id": "1897089680316772432",
+                "edit_history_tweet_ids": [
+                    "1897089680316772432"
+                ]
+            },
+            {
                 "text": "RT @MnetJP_Ch: ˗ˏˋ ALL!Light! &amp;TEAM ～LUNÉ大作戦～ ˎˊ˗\n\n明日21時から＜第9話＞😊 \n\n#EJ #FUMA #YUMA 人気店で本格お手伝い🍜\n#HARUA #TAKI #MAKI 子供に大人気💕\n#K #NICHOLAS #JO…",
                 "id": "1896840578027184295",
                 "edit_history_tweet_ids": [
@@ -21,28 +35,13 @@
                 "edit_history_tweet_ids": [
                     "1896713361318203763"
                 ]
-            },
-            {
-                "text": "RT @andteam_shaberi: /／\n\n#エンしゃべ\n第5回配信START！\n\n \\＼ \n\n第5回は#HARUA , #TAKI , #MAKI が出演！👀\nマンネたちの不満が爆発しています💢\n🎥 https://t.co/ZJPeRUDZg3\n\n#andTEAM #…",
-                "id": "1896697435566882913",
-                "edit_history_tweet_ids": [
-                    "1896697435566882913"
-                ]
-            },
-            {
-                "text": "fit check✨\n\nhttps://t.co/NxTq0EszhY\n\n@prada\n#PradaFW25\n#MiucciaPrada\n#RafSimons\n#andTEAM #JO #HARUA",
-                "id": "1896517131296182645",
-                "edit_history_tweet_ids": [
-                    "1896516779406688259",
-                    "1896517131296182645"
-                ]
             }
         ],
         "meta": {
+            "next_token": "7140dibdnow9c7btw4b3nyvkerutiawkicgaixae6oppv",
             "result_count": 5,
-            "newest_id": "1896840578027184295",
-            "oldest_id": "1896517131296182645",
-            "next_token": "7140dibdnow9c7btw4b3nyuytxyhu5ou9fnx5newxmxit"
+            "newest_id": "1897104780020810013",
+            "oldest_id": "1896713361318203763"
         }
     }
 }
