@@ -2,46 +2,46 @@
     "latest_tweets": {
         "data": [
             {
-                "text": "『2025 &amp;TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE'』開催決定！\n\n📍https://t.co/MKoEpYl2h8\n\n#andTEAM\n#ASIATOUR_AWAKENTHEBLOODLINE https://t.co/ZhQ1Zahc8p",
-                "id": "1897844656127590716",
+                "edit_history_tweet_ids": [
+                    "1897965454544765330"
+                ],
+                "id": "1897965454544765330",
+                "text": "[EPISODE] '雪明かり (Yukiakari)' 韓国音楽番組 Behind | &amp;TEAM\n(https://t.co/LZ4uVoxhOW)\n\n#andTEAM https://t.co/BOmMEeVlDr"
+            },
+            {
+                "edit_history_tweet_ids": [
+                    "1897935904205160663"
+                ],
+                "id": "1897935904205160663",
+                "text": "RT @mezamashimedia: ＼＼動画を公開しました／／\n🌈https://t.co/JfPVgsHrFh\n\n#andTEAM がいま一番愛してやまない🩷なものは？\n先月ファンミーティングを開催した&amp;TEAMに #めざましテレビ がインタビュー🙌\n#FUMA さんと…"
+            },
+            {
+                "edit_history_tweet_ids": [
+                    "1897905055854215315"
+                ],
+                "id": "1897905055854215315",
+                "text": "&amp;TEAM 2nd ALBUM 'Yukiakari' selfies\n🔗https://t.co/QIs6oKA0uc\n\n#andTEAM #앤팀 #LUNÉ_MEMBERSHIP"
+            },
+            {
                 "edit_history_tweet_ids": [
                     "1897844656127590716"
-                ]
+                ],
+                "id": "1897844656127590716",
+                "text": "『2025 &amp;TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE'』開催決定！\n\n📍https://t.co/MKoEpYl2h8\n\n#andTEAM\n#ASIATOUR_AWAKENTHEBLOODLINE https://t.co/ZhQ1Zahc8p"
             },
             {
-                "text": "RT @toppa_ntv: 🪭━━\n　次回 #突破ファイル\n　３月１３日(木)よる７時\n⚔️━━\n\n✈️空港税関\n　密輸犯が隠した不正薬物を\n　#木村昴 #高田夏帆 #田中美久 が徹底調査🐙\n\n🚨突破交番\n　#かもめんたる 岩崎う大 刑事 再び👮\n\n🌈スタジオに #福本莉子…",
-                "id": "1897614436283941318",
                 "edit_history_tweet_ids": [
                     "1897614436283941318"
-                ]
-            },
-            {
-                "text": "日本テレビ系『THE突破ファイル』 #EJ と #YUMA 出演決定！\nぜひご覧ください！\n\n放送日時：3月13日(木)19:00～19:54\n番組HP：https://t.co/myB2Zjweao\n\n#突破ファイル\n#andTEAM",
-                "id": "1897610611443277836",
-                "edit_history_tweet_ids": [
-                    "1897610611443277836"
-                ]
-            },
-            {
-                "text": "[東京お23] EP.0 #2 | &amp;TEAM\n(https://t.co/eo3pTx9Ie4)\n\n#andTEAM https://t.co/pU7n6PaEBB",
-                "id": "1897603074820317646",
-                "edit_history_tweet_ids": [
-                    "1897603074820317646"
-                ]
-            },
-            {
-                "text": "[#今日のandTEAM] 250306\n日本テレビ系『THE突破ファイル』\n\n#突破ファイル\n#andTEAM #FUMA #MAKI https://t.co/uUvWbcPTf2",
-                "id": "1897601803510010356",
-                "edit_history_tweet_ids": [
-                    "1897601803510010356"
-                ]
+                ],
+                "id": "1897614436283941318",
+                "text": "RT @toppa_ntv: 🪭━━\n　次回 #突破ファイル\n　３月１３日(木)よる７時\n⚔️━━\n\n✈️空港税関\n　密輸犯が隠した不正薬物を\n　#木村昴 #高田夏帆 #田中美久 が徹底調査🐙\n\n🚨突破交番\n　#かもめんたる 岩崎う大 刑事 再び👮\n\n🌈スタジオに #福本莉子…"
             }
         ],
         "meta": {
-            "next_token": "7140dibdnow9c7btw4b3o0zzq5eakc6ov4wkk701q92ye",
+            "next_token": "7140dibdnow9c7btw4b3o0zzronmo7674abt4lqo7u988",
             "result_count": 5,
-            "newest_id": "1897844656127590716",
-            "oldest_id": "1897601803510010356"
+            "newest_id": "1897965454544765330",
+            "oldest_id": "1897614436283941318"
         }
     }
 }
