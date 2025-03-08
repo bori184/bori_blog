@@ -2,6 +2,20 @@
     "latest_tweets": {
         "data": [
             {
+                "text": "[&amp;CUT] HARUAの控え室訪問インタビュー | '雪明かり (Yukiakari)' 韓国音楽番組 Behind | &amp;TEAM\n(https://t.co/lWvbzZ73bA)\n\n#andTEAM https://t.co/zzLrWomRpO",
+                "id": "1898327842523635818",
+                "edit_history_tweet_ids": [
+                    "1898327842523635818"
+                ]
+            },
+            {
+                "text": "𝐋𝐮𝐜𝐢𝐟𝐞𝐫\n\nhttps://t.co/7G1T9Az0Ez\n\n#andTEAM #EJ #FUMA",
+                "id": "1898298648498487504",
+                "edit_history_tweet_ids": [
+                    "1898298648498487504"
+                ]
+            },
+            {
                 "text": "日本テレビ系『あの頃からわたしたちは』に #K の出演が決定！\nぜひご覧ください！\n\n放送日時：2025年3月9日(日)14:00～15:00\n番組HP：https://t.co/hvxTeW7dN4\n\n#あの頃からわたしたちは\n#andTEAM",
                 "id": "1898222143843746098",
                 "edit_history_tweet_ids": [
@@ -21,27 +35,13 @@
                 "edit_history_tweet_ids": [
                     "1898208300954468474"
                 ]
-            },
-            {
-                "text": "『2025 &amp;TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE' in JAPAN』\n3月10日(月)よりLUNÉ Membership会員先行抽選受付決定！\n\n📅先行抽選受付期間\n3月10日(月)13:00~3月16日(日)23:59\n\n詳細はこちら\n📍https://t.co/Bx7offE2I0\n\n#andTEAM\n#ASIATOUR_AWAKENTHEBLOODLINE\n#AWAKENTHEBLOODLINE_JAPAN https://t.co/HUVAmIhvDz",
-                "id": "1898207056848408631",
-                "edit_history_tweet_ids": [
-                    "1898207056848408631"
-                ]
-            },
-            {
-                "text": "&amp;TEAM 3rd SINGLE「Go in Blind (月狼)」メンバー全員「スペシャルプレミアムサイン会(ミニトーク&amp;サイン&amp;撮影会)」✍️🐺第1回応募は明日3月9日(日)10:59まで📢\n\n限定トレカが必ずもらえる応募先はこちら↓\n(絵柄は各ストア別、ランダム)\n\n🛒&amp;TEAM Weverse Shop\nhttps://t.co/yzDt5DuQOF\n\n🛒UNIVERSAL… https://t.co/NW0k99niok https://t.co/vsxkn2uito",
-                "id": "1898191949976461653",
-                "edit_history_tweet_ids": [
-                    "1898191949976461653"
-                ]
             }
         ],
         "meta": {
             "result_count": 5,
-            "newest_id": "1898222143843746098",
-            "oldest_id": "1898191949976461653",
-            "next_token": "7140dibdnow9c7btw4b3o338b035jeqkjdy33g8ocxesz"
+            "newest_id": "1898327842523635818",
+            "oldest_id": "1898208300954468474",
+            "next_token": "7140dibdnow9c7btw4b3o33iptcj0hq3ddm8zbyhxouus"
         }
     }
 }
