@@ -2,46 +2,46 @@
     "latest_tweets": {
         "data": [
             {
+                "text": "[EPISODE] '雪明かり (Yukiakari)' 日本音楽番組 Behind | &amp;TEAM\n(https://t.co/i0I5wOaPLs)\n\n#andTEAM https://t.co/4UcqwMpezw",
+                "id": "1898690235766034847",
+                "edit_history_tweet_ids": [
+                    "1898690235766034847"
+                ]
+            },
+            {
+                "text": "&amp;TEAM 2nd ALBUM 'Yukiakari' Behind Photo\n🔗https://t.co/Nvi7rnDjJI\n\n#andTEAM #앤팀 #LUNÉ_MEMBERSHIP",
+                "id": "1898629830712992079",
+                "edit_history_tweet_ids": [
+                    "1898629830712992079"
+                ]
+            },
+            {
+                "text": "[#今日のandTEAM] 250309\n日本テレビ系『あの頃からわたしたちは』\n\n#あの頃からわたしたちは\n#andTEAM #K https://t.co/P1YKP4q3zm",
                 "id": "1898614730975264797",
                 "edit_history_tweet_ids": [
                     "1898614730975264797"
-                ],
-                "text": "[#今日のandTEAM] 250309\n日本テレビ系『あの頃からわたしたちは』\n\n#あの頃からわたしたちは\n#andTEAM #K https://t.co/P1YKP4q3zm"
+                ]
             },
             {
+                "text": "RT @anokoro_ntv: 【ダンサー同窓会 】 \n収録を終えて… #Ｋ からコメント💭\n #エモーショナルズ も驚いた \nＫのダンスへの想いとは。\n\n本日!! 14:00〜コーヒー片手に集合です☕️\n＼TVerで見逃し配信もあります／ \n#あの頃からわたしたちは \n#髙…",
                 "id": "1898557977537421663",
                 "edit_history_tweet_ids": [
                     "1898557977537421663"
-                ],
-                "text": "RT @anokoro_ntv: 【ダンサー同窓会 】 \n収録を終えて… #Ｋ からコメント💭\n #エモーショナルズ も驚いた \nＫのダンスへの想いとは。\n\n本日!! 14:00〜コーヒー片手に集合です☕️\n＼TVerで見逃し配信もあります／ \n#あの頃からわたしたちは \n#髙…"
+                ]
             },
             {
+                "text": "[&amp;CUT] HARUAの控え室訪問インタビュー | '雪明かり (Yukiakari)' 韓国音楽番組 Behind | &amp;TEAM\n(https://t.co/lWvbzZ73bA)\n\n#andTEAM https://t.co/zzLrWomRpO",
                 "id": "1898327842523635818",
                 "edit_history_tweet_ids": [
                     "1898327842523635818"
-                ],
-                "text": "[&amp;CUT] HARUAの控え室訪問インタビュー | '雪明かり (Yukiakari)' 韓国音楽番組 Behind | &amp;TEAM\n(https://t.co/lWvbzZ73bA)\n\n#andTEAM https://t.co/zzLrWomRpO"
-            },
-            {
-                "id": "1898298648498487504",
-                "edit_history_tweet_ids": [
-                    "1898298648498487504"
-                ],
-                "text": "𝐋𝐮𝐜𝐢𝐟𝐞𝐫\n\nhttps://t.co/7G1T9Az0Ez\n\n#andTEAM #EJ #FUMA"
-            },
-            {
-                "id": "1898222143843746098",
-                "edit_history_tweet_ids": [
-                    "1898222143843746098"
-                ],
-                "text": "日本テレビ系『あの頃からわたしたちは』に #K の出演が決定！\nぜひご覧ください！\n\n放送日時：2025年3月9日(日)14:00～15:00\n番組HP：https://t.co/hvxTeW7dN4\n\n#あの頃からわたしたちは\n#andTEAM"
+                ]
             }
         ],
         "meta": {
-            "next_token": "7140dibdnow9c7btw4b3o33istb7doyj2evjpgw7h9we0",
             "result_count": 5,
-            "newest_id": "1898614730975264797",
-            "oldest_id": "1898222143843746098"
+            "newest_id": "1898690235766034847",
+            "oldest_id": "1898327842523635818",
+            "next_token": "7140dibdnow9c7btw4b3o33tl9rbdl287agfwhstx2m2g"
         }
     }
 }
