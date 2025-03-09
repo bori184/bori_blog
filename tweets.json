@@ -2,46 +2,46 @@
     "latest_tweets": {
         "data": [
             {
-                "text": "[&amp;CUT] HARUAの控え室訪問インタビュー | '雪明かり (Yukiakari)' 韓国音楽番組 Behind | &amp;TEAM\n(https://t.co/lWvbzZ73bA)\n\n#andTEAM https://t.co/zzLrWomRpO",
+                "id": "1898614730975264797",
+                "edit_history_tweet_ids": [
+                    "1898614730975264797"
+                ],
+                "text": "[#今日のandTEAM] 250309\n日本テレビ系『あの頃からわたしたちは』\n\n#あの頃からわたしたちは\n#andTEAM #K https://t.co/P1YKP4q3zm"
+            },
+            {
+                "id": "1898557977537421663",
+                "edit_history_tweet_ids": [
+                    "1898557977537421663"
+                ],
+                "text": "RT @anokoro_ntv: 【ダンサー同窓会 】 \n収録を終えて… #Ｋ からコメント💭\n #エモーショナルズ も驚いた \nＫのダンスへの想いとは。\n\n本日!! 14:00〜コーヒー片手に集合です☕️\n＼TVerで見逃し配信もあります／ \n#あの頃からわたしたちは \n#髙…"
+            },
+            {
                 "id": "1898327842523635818",
                 "edit_history_tweet_ids": [
                     "1898327842523635818"
-                ]
+                ],
+                "text": "[&amp;CUT] HARUAの控え室訪問インタビュー | '雪明かり (Yukiakari)' 韓国音楽番組 Behind | &amp;TEAM\n(https://t.co/lWvbzZ73bA)\n\n#andTEAM https://t.co/zzLrWomRpO"
             },
             {
-                "text": "𝐋𝐮𝐜𝐢𝐟𝐞𝐫\n\nhttps://t.co/7G1T9Az0Ez\n\n#andTEAM #EJ #FUMA",
                 "id": "1898298648498487504",
                 "edit_history_tweet_ids": [
                     "1898298648498487504"
-                ]
+                ],
+                "text": "𝐋𝐮𝐜𝐢𝐟𝐞𝐫\n\nhttps://t.co/7G1T9Az0Ez\n\n#andTEAM #EJ #FUMA"
             },
             {
-                "text": "日本テレビ系『あの頃からわたしたちは』に #K の出演が決定！\nぜひご覧ください！\n\n放送日時：2025年3月9日(日)14:00～15:00\n番組HP：https://t.co/hvxTeW7dN4\n\n#あの頃からわたしたちは\n#andTEAM",
                 "id": "1898222143843746098",
                 "edit_history_tweet_ids": [
                     "1898222143843746098"
-                ]
-            },
-            {
-                "text": "RT @cosmokorea: 앤팀(&amp;TEAM)과 함께한 코스모폴리탄 3월호 화보, 인터뷰 전문 공개! 🥹🩵🩵\n\n🔗https://t.co/QE7JPwXTBk\n\n@andTEAMofficial #andteam #앤팀",
-                "id": "1898218462046306599",
-                "edit_history_tweet_ids": [
-                    "1898218462046306599"
-                ]
-            },
-            {
-                "text": "『2025 &amp;TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE'』開催記念🐺✨\n&amp;TEAMよりメッセージが届きました🎥💓\n\n公演の詳細はこちら\n👉https://t.co/Bx7offE2I0\n\n#andTEAM\n#ASIATOUR_AWAKENTHEBLOODLINE https://t.co/3E5v0vPNmf",
-                "id": "1898208300954468474",
-                "edit_history_tweet_ids": [
-                    "1898208300954468474"
-                ]
+                ],
+                "text": "日本テレビ系『あの頃からわたしたちは』に #K の出演が決定！\nぜひご覧ください！\n\n放送日時：2025年3月9日(日)14:00～15:00\n番組HP：https://t.co/hvxTeW7dN4\n\n#あの頃からわたしたちは\n#andTEAM"
             }
         ],
         "meta": {
-            "next_token": "7140dibdnow9c7btw4b3o33iptcj0hq3ddm8zbyhxouus",
+            "next_token": "7140dibdnow9c7btw4b3o33istb7doyj2evjpgw7h9we0",
             "result_count": 5,
-            "newest_id": "1898327842523635818",
-            "oldest_id": "1898208300954468474"
+            "newest_id": "1898614730975264797",
+            "oldest_id": "1898222143843746098"
         }
     }
 }
