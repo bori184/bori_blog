@@ -2,46 +2,46 @@
     "latest_tweets": {
         "data": [
             {
+                "id": "1899075972491809037",
                 "edit_history_tweet_ids": [
                     "1899075972491809037"
                 ],
-                "id": "1899075972491809037",
                 "text": "RT @cx_mezamashi: あす11日(火)の #めざましテレビ エンタメPick Up☝️\nオールナイトニッポンX(クロス)の\n新パーソナリティーに決定した #永野芽郁 さん #YUMA さん #HARUA さん #TAKI さん（#andTEAM）にインタビュー🎤…"
             },
             {
+                "id": "1899060748799938804",
                 "edit_history_tweet_ids": [
                     "1899060748799938804"
                 ],
-                "id": "1899060748799938804",
                 "text": "RT @andTEAM_ANNX: ＼＼　／／\n　&amp;TEAMの\n　オールナイトニッポンX\n／／　＼＼\n\n@andTEAMofficial\n\nANN就任会見にメンバーの\nYUMA  HARUA  TAKIが出演しました！\n\n初回は4/25(金)24時から\n　　　￣￣￣￣\n詳細はこ…"
             },
             {
+                "id": "1899052858873655471",
                 "edit_history_tweet_ids": [
                     "1899052858873655471"
                 ],
-                "id": "1899052858873655471",
                 "text": "RT @YX_LABELS: [&amp;TEAM] \n3rd SINGLE「Go in Blind (月狼)」\nPromotion Schedule\n\n2025.4.23\n\n#andTEAM #GoinBlind https://t.co/8IWiirqSwK"
             },
             {
+                "id": "1899029967708590509",
                 "edit_history_tweet_ids": [
                     "1899029967708590509"
                 ],
-                "id": "1899029967708590509",
                 "text": "[#今日のandTEAM] 250310\nニッポン放送『オールナイトニッポン』\n2025年度ラインナップ発表記者会見\n\n#andTEAM \n#YUMA #HARUA #TAKI https://t.co/eFxYaMYmRA"
             },
             {
+                "id": "1899014982488248687",
                 "edit_history_tweet_ids": [
                     "1899014982488248687"
                 ],
-                "id": "1899014982488248687",
                 "text": "RT @andTEAM_ANNX: 🎉&amp;TEAMの新レギュラー番組決定🎉\n\n【&amp;TEAMのオールナイトニッポンX】\n毎月最終金曜日24時から25時OA!!\n\n📱アプリ「ANNJAM」でも音声同時配信!\n無料で聴けます!\nhttps://t.co/YImCQM3X1o\n\nこのXも…"
             }
         ],
         "meta": {
+            "next_token": "7140dibdnow9c7btw4b3o57nbsc00vbrs5l36froual9z",
             "result_count": 5,
             "newest_id": "1899075972491809037",
-            "oldest_id": "1899014982488248687",
-            "next_token": "7140dibdnow9c7btw4b3o57nbsc00vbrs5l36froual9z"
+            "oldest_id": "1899014982488248687"
         }
     }
 }
