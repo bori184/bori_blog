@@ -2,46 +2,46 @@
     "latest_tweets": {
         "data": [
             {
-                "id": "1906907135965081882",
+                "edit_history_tweet_ids": [
+                    "1907025215097557381"
+                ],
+                "id": "1907025215097557381",
+                "text": "RT @YX_LABELS: [&amp;TEAM] \n3rd SINGLE「Go in Blind (月狼)」\nTrack Sampler B\n\n2025.4.23\n\nhttps://t.co/BUzOGBHhhQ\n\n#GoinBlind #RunWild #オオカミ系男子\n#and…"
+            },
+            {
+                "edit_history_tweet_ids": [
+                    "1906964750463807981"
+                ],
+                "id": "1906964750463807981",
+                "text": "[April] Happy Birthday to LUNÉ\n🔗 https://t.co/tH997U4gfO\n\n#andTEAM #앤팀 #LUNÉ_MEMBERSHIP"
+            },
+            {
                 "edit_history_tweet_ids": [
                     "1906907135965081882"
                 ],
+                "id": "1906907135965081882",
                 "text": "RT @andteam_shaberi: /／\n\n#エンしゃべ \n第7回配信お聞きいただき\nありがとうございました！\n \n\\＼ \n\n「エンしゃべ 筋トレスペシャル」いかがでしたか？💪\n4人の筋肉トークの感想は #エンしゃべ をつけて投稿してください📱\n\n#andTEAM #an…"
             },
             {
-                "id": "1906896800306679890",
                 "edit_history_tweet_ids": [
                     "1906896800306679890"
                 ],
+                "id": "1906896800306679890",
                 "text": "日本テレビ系『DayDay.』に #FUMA がコメンテーターとして生出演！\nぜひご覧ください！\n\n放送日時：4月2日(水) 9:00〜11:10\n番組HP：https://t.co/jWFsRYXgPV\n\n#DayDay.\n#andTEAM"
             },
             {
-                "id": "1906865316145316052",
                 "edit_history_tweet_ids": [
                     "1906865316145316052"
                 ],
+                "id": "1906865316145316052",
                 "text": "RT @abema_kpopdrama: 🩷#KstylePARTY 2025\n\nDay2に出演した #andTEAM の\n貴重なステージ裏の姿をお届け✨\n\nKstyle PARTY は\nアベマで国内独占・無料見逃し配信中🫶\n\n見逃し配信は\n【4/13(日)23:59】まで！…"
-            },
-            {
-                "id": "1906859519789158459",
-                "edit_history_tweet_ids": [
-                    "1906859519789158459"
-                ],
-                "text": "RT @andteam_shaberi: /／\n\n#エンしゃべ\n第7回配信START！\n\n\\＼ \n\n第7回はFUMA, K, NICHOLASが出演！👀\nスペシャルゲストは #なかやまきんに君 さん💪 (@kinnikun0917)\n\nぜひ映像なしの筋トレ回をお聞きください！…"
-            },
-            {
-                "id": "1906662828553183571",
-                "edit_history_tweet_ids": [
-                    "1906662828553183571"
-                ],
-                "text": "RT @YX_LABELS: [&amp;TEAM] \n3rd SINGLE「Go in Blind (月狼)」\nTrack Sampler A\n\n2025.4.23\n\nhttps://t.co/VGXrmA7gF7\n\n#GoinBlind #RunWild #オオカミ系男子\n#and…"
             }
         ],
         "meta": {
-            "next_token": "7140dibdnow9c7btw4dzngezmn82xnv1dt00fm1fceqsx",
             "result_count": 5,
-            "newest_id": "1906907135965081882",
-            "oldest_id": "1906662828553183571"
+            "newest_id": "1907025215097557381",
+            "oldest_id": "1906865316145316052",
+            "next_token": "7140dibdnow9c7btw4dzngfl7ilyppysami37e2tbz8ky"
         }
     }
 }
