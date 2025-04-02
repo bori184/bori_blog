@@ -2,46 +2,46 @@
     "latest_tweets": {
         "data": [
             {
+                "text": "RT @YX_LABELS: [&amp;TEAM] \n3rd SINGLE「Go in Blind (月狼)」\nTrack Sampler C\n\n2025.4.23\n\nhttps://t.co/BStSffLpXC\n\n#GoinBlind #RunWild #オオカミ系男子\n#and…",
+                "id": "1907387584289902639",
+                "edit_history_tweet_ids": [
+                    "1907387584289902639"
+                ]
+            },
+            {
+                "text": "『2025 &amp;TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE' in JAPAN』4月3日(木)よりLUNÉ Membership会員プレミアムシート・LUNÉなかよしプレミアムシートアップグレード抽選受付開始！\n\n詳しくはこちら\n📍https://t.co/OZn198ZjI9\n\n#andTEAM\n#ASIATOUR_AWAKENTHEBLOODLINE\n#AWAKENTHEBLOODLINE_JAPAN",
+                "id": "1907281838348919023",
                 "edit_history_tweet_ids": [
                     "1907281838348919023"
-                ],
-                "text": "『2025 &amp;TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE' in JAPAN』4月3日(木)よりLUNÉ Membership会員プレミアムシート・LUNÉなかよしプレミアムシートアップグレード抽選受付開始！\n\n詳しくはこちら\n📍https://t.co/OZn198ZjI9\n\n#andTEAM\n#ASIATOUR_AWAKENTHEBLOODLINE\n#AWAKENTHEBLOODLINE_JAPAN",
-                "id": "1907281838348919023"
+                ]
             },
             {
+                "text": "[#今日のandTEAM] 250402\n日本テレビ系『DayDay.』\n\n#DayDay.\n#andTEAM #FUMA https://t.co/tq6ECXKs3q",
+                "id": "1907259492401811697",
                 "edit_history_tweet_ids": [
                     "1907259492401811697"
-                ],
-                "text": "[#今日のandTEAM] 250402\n日本テレビ系『DayDay.』\n\n#DayDay.\n#andTEAM #FUMA https://t.co/tq6ECXKs3q",
-                "id": "1907259492401811697"
+                ]
             },
             {
+                "text": "&amp;TEAM 3rd SINGLE「Go in Blind (月狼)」発売記念\n『2025 &amp;TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE' in JAPAN』ハイタッチ会✋\n第2回応募は明日4月3日(木)20:29まで📢\n\n対象商品の購入はこちらから👇\n\n🛒&amp;TEAM Weverse Shop\nhttps://t.co/tvHP0pB6iu\n\n🛒UNIVERSAL MUSIC STORE https://t.co/XjOHzjsbDE",
+                "id": "1907251642661322934",
                 "edit_history_tweet_ids": [
                     "1907251642661322934"
-                ],
-                "text": "&amp;TEAM 3rd SINGLE「Go in Blind (月狼)」発売記念\n『2025 &amp;TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE' in JAPAN』ハイタッチ会✋\n第2回応募は明日4月3日(木)20:29まで📢\n\n対象商品の購入はこちらから👇\n\n🛒&amp;TEAM Weverse Shop\nhttps://t.co/tvHP0pB6iu\n\n🛒UNIVERSAL MUSIC STORE https://t.co/XjOHzjsbDE",
-                "id": "1907251642661322934"
+                ]
             },
             {
+                "text": "RT @YX_LABELS: [&amp;TEAM] \n3rd SINGLE「Go in Blind (月狼)」\nTrack Sampler B\n\n2025.4.23\n\nhttps://t.co/BUzOGBHhhQ\n\n#GoinBlind #RunWild #オオカミ系男子\n#and…",
+                "id": "1907025215097557381",
                 "edit_history_tweet_ids": [
                     "1907025215097557381"
-                ],
-                "text": "RT @YX_LABELS: [&amp;TEAM] \n3rd SINGLE「Go in Blind (月狼)」\nTrack Sampler B\n\n2025.4.23\n\nhttps://t.co/BUzOGBHhhQ\n\n#GoinBlind #RunWild #オオカミ系男子\n#and…",
-                "id": "1907025215097557381"
-            },
-            {
-                "edit_history_tweet_ids": [
-                    "1906964750463807981"
-                ],
-                "text": "[April] Happy Birthday to LUNÉ\n🔗 https://t.co/tH997U4gfO\n\n#andTEAM #앤팀 #LUNÉ_MEMBERSHIP",
-                "id": "1906964750463807981"
+                ]
             }
         ],
         "meta": {
-            "next_token": "7140dibdnow9c7btw4dzngfvzxrwbsgvtxgzypoarl6pd",
+            "next_token": "7140dibdnow9c7btw4dznihwvd2x8wpwnnhh7cwvlwisx",
             "result_count": 5,
-            "newest_id": "1907281838348919023",
-            "oldest_id": "1906964750463807981"
+            "newest_id": "1907387584289902639",
+            "oldest_id": "1907025215097557381"
         }
     }
 }
