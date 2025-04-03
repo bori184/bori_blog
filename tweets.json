@@ -2,46 +2,46 @@
     "latest_tweets": {
         "data": [
             {
+                "id": "1907770450199162991",
+                "text": "RT @andteam_shaberi: なかやまきんに君のサプライズ登場の瞬間！\n\n#エンしゃべ #andTEAM #andTEAM_FUMA #andTEAM_K #andTEAM_NICHOLAS #FUMA #K #NICHOLAS #なかやまきんに君\n\nhttps:/…",
+                "edit_history_tweet_ids": [
+                    "1907770450199162991"
+                ]
+            },
+            {
+                "id": "1907757473210994733",
+                "text": "／\n&amp;TEAM 3rd SINGLE「Go in Blind (月狼)」発売記念\nタワーレコード＆HMV＆アニメイト「メンバー全員サイン会」開催決定！\n＼\n\n詳しくはこちら👉https://t.co/zNmKquhwDf\n\n#andTEAM #GoinBlind",
+                "edit_history_tweet_ids": [
+                    "1907757473210994733"
+                ]
+            },
+            {
+                "id": "1907749935929512072",
+                "text": "[東京お23] EP.1-4 港区編 | ガイドブック記事制作✏ &amp; プレゼン🔍 | &amp;TEAM\n(https://t.co/lBltszD4j5)\n\n#andTEAM https://t.co/yLuhDJC2FV",
+                "edit_history_tweet_ids": [
+                    "1907749935929512072"
+                ]
+            },
+            {
+                "id": "1907719731567800646",
+                "text": "『2025 &amp;TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE' in JAPAN』ローソンチケット抽選先行受付&amp;一般発売日決定！\n\n詳細はこちら\n📍https://t.co/PWzgl6HCA8\n\n#andTEAM\n#ASIATOUR_AWAKENTHEBLOODLINE\n#AWAKENTHEBLOODLINE_JAPAN",
+                "edit_history_tweet_ids": [
+                    "1907719731567800646"
+                ]
+            },
+            {
                 "id": "1907644230555807869",
                 "text": "／\n📢『2025 &amp;TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE' in JAPAN』\nLUNÉ Membership会員プレミアムシート・LUNÉなかよしプレミアムシートアップグレード抽選受付開始！\n＼\n\n📅4月3日(木)13:00～4月7日(月)23:59\n📍https://t.co/JQcYYarqAG\n※先着順ではございません。 https://t.co/PqeogEnjlf",
                 "edit_history_tweet_ids": [
                     "1907644230555807869"
                 ]
-            },
-            {
-                "id": "1907639937501114633",
-                "text": "RT @pop_813: 新コーナー❗️\nALL TIME ANTHEMS\n\n毎月のテーマを元に、ゲストとハニーズに思い出の洋楽を選曲❗️\n毎月オリジナルのプレイリストも作成❗️\n\n4月のテーマは\n【UKI UKI POPPIN' ANTHEM】\n\n初回の4/5は、&amp;TEAMの…",
-                "edit_history_tweet_ids": [
-                    "1907639937501114633"
-                ]
-            },
-            {
-                "id": "1907387584289902639",
-                "text": "RT @YX_LABELS: [&amp;TEAM] \n3rd SINGLE「Go in Blind (月狼)」\nTrack Sampler C\n\n2025.4.23\n\nhttps://t.co/BStSffLpXC\n\n#GoinBlind #RunWild #オオカミ系男子\n#and…",
-                "edit_history_tweet_ids": [
-                    "1907387584289902639"
-                ]
-            },
-            {
-                "id": "1907281838348919023",
-                "text": "『2025 &amp;TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE' in JAPAN』4月3日(木)よりLUNÉ Membership会員プレミアムシート・LUNÉなかよしプレミアムシートアップグレード抽選受付開始！\n\n詳しくはこちら\n📍https://t.co/OZn198ZjI9\n\n#andTEAM\n#ASIATOUR_AWAKENTHEBLOODLINE\n#AWAKENTHEBLOODLINE_JAPAN",
-                "edit_history_tweet_ids": [
-                    "1907281838348919023"
-                ]
-            },
-            {
-                "id": "1907259492401811697",
-                "text": "[#今日のandTEAM] 250402\n日本テレビ系『DayDay.』\n\n#DayDay.\n#andTEAM #FUMA https://t.co/tq6ECXKs3q",
-                "edit_history_tweet_ids": [
-                    "1907259492401811697"
-                ]
             }
         ],
         "meta": {
-            "next_token": "7140dibdnow9c7btw4dzniiiksjxnp5p22i74g74kj60n",
             "result_count": 5,
-            "newest_id": "1907644230555807869",
-            "oldest_id": "1907259492401811697"
+            "newest_id": "1907770450199162991",
+            "oldest_id": "1907644230555807869",
+            "next_token": "7140dibdnow9c7btw4dznijpoyd17nuz722pfq9ez79dl"
         }
     }
 }
