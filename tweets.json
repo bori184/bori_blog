@@ -2,46 +2,46 @@
     "latest_tweets": {
         "data": [
             {
+                "text": "浮気するなよっ🐱\n\nhttps://t.co/e0izwIFOdz\n\n#andTEAM #YUMA",
+                "id": "1908112799378641046",
+                "edit_history_tweet_ids": [
+                    "1908112799378641046"
+                ]
+            },
+            {
+                "text": "&amp;TEAM 3rd SINGLE「Go in Blind (月狼)」POP-UP開催決定！\n\n詳しくはこちら👉https://t.co/8cEozFXohF\n\n#andTEAM https://t.co/XblokWqsti",
+                "id": "1908082121958387839",
+                "edit_history_tweet_ids": [
+                    "1908082121958387839"
+                ]
+            },
+            {
+                "text": "RT @TripcomJP: 🎉 2025 &amp;TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE' in JAPAN\n✨ 日程\n愛知：2025.5.10(土)-11(日)\n福岡：2025.5.27(火)-28(水) \n🎫発売時間：2025年4月10日…",
+                "id": "1908067259085631960",
+                "edit_history_tweet_ids": [
+                    "1908067259085631960"
+                ]
+            },
+            {
                 "text": "2025 &amp;TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE'\n\nConcept Photo\n​​#HARUA #TAKI #MAKI\n\n📍https://t.co/AEGPpGSFfQ\n\n#andTEAM\n#ASIATOUR_AWAKENTHEBLOODLINE https://t.co/fEJ8uIIzJ9",
+                "id": "1907992017608585264",
                 "edit_history_tweet_ids": [
                     "1907992017608585264"
-                ],
-                "id": "1907992017608585264"
+                ]
             },
             {
                 "text": "2025 &amp;TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE'\n\nConcept Photo\n#NICHOLAS #YUMA #JO\n\n📍https://t.co/AEGPpGTd5o\n\n#andTEAM\n#ASIATOUR_AWAKENTHEBLOODLINE https://t.co/fMvMj2LmJ2",
+                "id": "1907991766256799970",
                 "edit_history_tweet_ids": [
                     "1907991766256799970"
-                ],
-                "id": "1907991766256799970"
-            },
-            {
-                "text": "2025 &amp;TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE'\n\nConcept Photo\n#EJ #FUMA #K\n\n📍https://t.co/AEGPpGTd5o\n\n#andTEAM\n#ASIATOUR_AWAKENTHEBLOODLINE https://t.co/IWNyYa8BQO",
-                "edit_history_tweet_ids": [
-                    "1907991518406914127"
-                ],
-                "id": "1907991518406914127"
-            },
-            {
-                "text": "RT @andteam_shaberi: なかやまきんに君のサプライズ登場の瞬間！\n\n#エンしゃべ #andTEAM #andTEAM_FUMA #andTEAM_K #andTEAM_NICHOLAS #FUMA #K #NICHOLAS #なかやまきんに君\n\nhttps:/…",
-                "edit_history_tweet_ids": [
-                    "1907770450199162991"
-                ],
-                "id": "1907770450199162991"
-            },
-            {
-                "text": "／\n&amp;TEAM 3rd SINGLE「Go in Blind (月狼)」発売記念\nタワーレコード＆HMV＆アニメイト「メンバー全員サイン会」開催決定！\n＼\n\n詳しくはこちら👉https://t.co/zNmKquhwDf\n\n#andTEAM #GoinBlind",
-                "edit_history_tweet_ids": [
-                    "1907757473210994733"
-                ],
-                "id": "1907757473210994733"
+                ]
             }
         ],
         "meta": {
-            "next_token": "7140dibdnow9c7btw4dznik0ix01lviaehe9fdbjaf67n",
             "result_count": 5,
-            "newest_id": "1907992017608585264",
-            "oldest_id": "1907757473210994733"
+            "newest_id": "1908112799378641046",
+            "oldest_id": "1907991766256799970",
+            "next_token": "7140dibdnow9c7btw4dznikm9syomn49qrokwahfg1dm8"
         }
     }
 }
