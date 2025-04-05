@@ -2,6 +2,20 @@
     "latest_tweets": {
         "data": [
             {
+                "id": "1908474707839508599",
+                "text": "[&amp;DAY ON] JO&amp;HARUA Milan VLOG\n(https://t.co/gMGW8SZoSC)\n\n#andTEAM #JO #HARUA https://t.co/xV1bP9Xrb8",
+                "edit_history_tweet_ids": [
+                    "1908474707839508599"
+                ]
+            },
+            {
+                "id": "1908444982027182196",
+                "text": "𝓭𝓻𝓲𝓯𝓽 ⚠️\n\nhttps://t.co/CcmQ58jmKJ\n\n#andTEAM #FUMA #YUMA",
+                "edit_history_tweet_ids": [
+                    "1908444982027182196"
+                ]
+            },
+            {
                 "id": "1908324272885617089",
                 "text": "RT @pop_813: #YUMA(&amp;TEAM)が世界のポップカルチャーを語る❗️\n\n今回は、Netflixで配信しているドラマ『弱いヒーロー Class 1』についてお話しました❗️\n\n👇聴き逃した方はこちらから❗️\nhttps://t.co/C0E0XsKoHe\n\n@an…",
                 "edit_history_tweet_ids": [
@@ -21,27 +35,13 @@
                 "edit_history_tweet_ids": [
                     "1908112799378641046"
                 ]
-            },
-            {
-                "id": "1908082121958387839",
-                "text": "&amp;TEAM 3rd SINGLE「Go in Blind (月狼)」POP-UP開催決定！\n\n詳しくはこちら👉https://t.co/8cEozFXohF\n\n#andTEAM https://t.co/XblokWqsti",
-                "edit_history_tweet_ids": [
-                    "1908082121958387839"
-                ]
-            },
-            {
-                "id": "1908067259085631960",
-                "text": "RT @TripcomJP: 🎉 2025 &amp;TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE' in JAPAN\n✨ 日程\n愛知：2025.5.10(土)-11(日)\n福岡：2025.5.27(火)-28(水) \n🎫発売時間：2025年4月10日…",
-                "edit_history_tweet_ids": [
-                    "1908067259085631960"
-                ]
             }
         ],
         "meta": {
             "result_count": 5,
-            "newest_id": "1908324272885617089",
-            "oldest_id": "1908067259085631960",
-            "next_token": "7140dibdnow9c7btw4dznkmn6ryj134cor6y7d29x7gvk"
+            "newest_id": "1908474707839508599",
+            "oldest_id": "1908112799378641046",
+            "next_token": "7140dibdnow9c7btw4dznkmxrl5pfvdxo78rnmwden9yu"
         }
     }
 }
