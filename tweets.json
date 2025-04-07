@@ -2,46 +2,46 @@
     "latest_tweets": {
         "data": [
             {
-                "id": "1909222673424720116",
-                "text": "🐱🐰🐣 何が好き？\n\nhttps://t.co/k9JKm6aJrM\n\n#andTEAM #YUMA #HARUA #TAKI",
+                "edit_history_tweet_ids": [
+                    "1909244781550592246"
+                ],
+                "id": "1909244781550592246",
+                "text": "TBS系『CDTVライブ！ライブ！』に&amp;TEAM出演決定！\n「Go in Blind (月狼)」をフルサイズでTV初披露します！\nぜひご覧ください！\n\n放送日時：4月14日(月) 19:00〜20:55\n番組HP：https://t.co/C3ZVtg5B90\n\n#CDTVライブライブ\n#andTEAM #GoinBlind"
+            },
+            {
                 "edit_history_tweet_ids": [
                     "1909222673424720116"
-                ]
+                ],
+                "id": "1909222673424720116",
+                "text": "🐱🐰🐣 何が好き？\n\nhttps://t.co/k9JKm6aJrM\n\n#andTEAM #YUMA #HARUA #TAKI"
             },
             {
-                "id": "1909199477686010054",
-                "text": "[EPISODE] 2025 FANMEETING &amp;︎❤︎ Sketch (https://t.co/wTKmJTmH5X)\n\n#andTEAM https://t.co/uXxdpPitxQ",
                 "edit_history_tweet_ids": [
                     "1909199477686010054"
-                ]
+                ],
+                "id": "1909199477686010054",
+                "text": "[EPISODE] 2025 FANMEETING &amp;︎❤︎ Sketch (https://t.co/wTKmJTmH5X)\n\n#andTEAM https://t.co/uXxdpPitxQ"
             },
             {
-                "id": "1909176825734906119",
-                "text": "📢&amp;TEAM 3rd SINGLE「Go in Blind (月狼)」\n&amp;TEAMの #Spotify にてカウントダウンページがオープンしました！\n\n🐺https://t.co/tXbwnFySqy\n\n📝事前予約をすると、配信開始後自動でライブラリに追加されます♪\n\n@SpotifyJP\n#andTEAM #GoinBlind",
                 "edit_history_tweet_ids": [
                     "1909176825734906119"
-                ]
+                ],
+                "id": "1909176825734906119",
+                "text": "📢&amp;TEAM 3rd SINGLE「Go in Blind (月狼)」\n&amp;TEAMの #Spotify にてカウントダウンページがオープンしました！\n\n🐺https://t.co/tXbwnFySqy\n\n📝事前予約をすると、配信開始後自動でライブラリに追加されます♪\n\n@SpotifyJP\n#andTEAM #GoinBlind"
             },
             {
-                "id": "1909154184559206698",
-                "text": "&amp;TEAM 3rd SINGLE「Go in Blind (月狼)」POP-UP\nこのあと19:00～FC先着入店予約スタート！\nぜひチェックしてください🐺🌕\n\n詳しくはこちら👉https://t.co/r3VCG35Yan\n\n#andTEAM #GoinBlind https://t.co/3YvQrKM0aG",
                 "edit_history_tweet_ids": [
                     "1909154184559206698"
-                ]
-            },
-            {
-                "id": "1909078680703479948",
-                "text": "&amp;TEAM 3rd SINGLE「Go in Blind (月狼)」POP-UP先行入店イベント開催決定\nLUNÉ Membership会員様を抽選でご招待いたします！✨\n\n詳しくはこちら👉https://t.co/7ao3QRCv1i\n\n#andTEAM #GoinBlind",
-                "edit_history_tweet_ids": [
-                    "1909078680703479948"
-                ]
+                ],
+                "id": "1909154184559206698",
+                "text": "&amp;TEAM 3rd SINGLE「Go in Blind (月狼)」POP-UP\nこのあと19:00～FC先着入店予約スタート！\nぜひチェックしてください🐺🌕\n\n詳しくはこちら👉https://t.co/r3VCG35Yan\n\n#andTEAM #GoinBlind https://t.co/3YvQrKM0aG"
             }
         ],
         "meta": {
+            "next_token": "7140dibdnow9c7btw4dznmro3014pyr7b931m6u2mdo3c",
             "result_count": 5,
-            "newest_id": "1909222673424720116",
-            "oldest_id": "1909078680703479948",
-            "next_token": "7140dibdnow9c7btw4dznmrddmrc3hpucaizdtlh2kcvs"
+            "newest_id": "1909244781550592246",
+            "oldest_id": "1909154184559206698"
         }
     }
 }
