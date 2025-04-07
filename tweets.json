@@ -2,46 +2,46 @@
     "latest_tweets": {
         "data": [
             {
+                "id": "1909222673424720116",
+                "text": "🐱🐰🐣 何が好き？\n\nhttps://t.co/k9JKm6aJrM\n\n#andTEAM #YUMA #HARUA #TAKI",
+                "edit_history_tweet_ids": [
+                    "1909222673424720116"
+                ]
+            },
+            {
+                "id": "1909199477686010054",
+                "text": "[EPISODE] 2025 FANMEETING &amp;︎❤︎ Sketch (https://t.co/wTKmJTmH5X)\n\n#andTEAM https://t.co/uXxdpPitxQ",
+                "edit_history_tweet_ids": [
+                    "1909199477686010054"
+                ]
+            },
+            {
+                "id": "1909176825734906119",
+                "text": "📢&amp;TEAM 3rd SINGLE「Go in Blind (月狼)」\n&amp;TEAMの #Spotify にてカウントダウンページがオープンしました！\n\n🐺https://t.co/tXbwnFySqy\n\n📝事前予約をすると、配信開始後自動でライブラリに追加されます♪\n\n@SpotifyJP\n#andTEAM #GoinBlind",
+                "edit_history_tweet_ids": [
+                    "1909176825734906119"
+                ]
+            },
+            {
+                "id": "1909154184559206698",
+                "text": "&amp;TEAM 3rd SINGLE「Go in Blind (月狼)」POP-UP\nこのあと19:00～FC先着入店予約スタート！\nぜひチェックしてください🐺🌕\n\n詳しくはこちら👉https://t.co/r3VCG35Yan\n\n#andTEAM #GoinBlind https://t.co/3YvQrKM0aG",
+                "edit_history_tweet_ids": [
+                    "1909154184559206698"
+                ]
+            },
+            {
+                "id": "1909078680703479948",
+                "text": "&amp;TEAM 3rd SINGLE「Go in Blind (月狼)」POP-UP先行入店イベント開催決定\nLUNÉ Membership会員様を抽選でご招待いたします！✨\n\n詳しくはこちら👉https://t.co/7ao3QRCv1i\n\n#andTEAM #GoinBlind",
                 "edit_history_tweet_ids": [
                     "1909078680703479948"
-                ],
-                "id": "1909078680703479948",
-                "text": "&amp;TEAM 3rd SINGLE「Go in Blind (月狼)」POP-UP先行入店イベント開催決定\nLUNÉ Membership会員様を抽選でご招待いたします！✨\n\n詳しくはこちら👉https://t.co/7ao3QRCv1i\n\n#andTEAM #GoinBlind"
-            },
-            {
-                "edit_history_tweet_ids": [
-                    "1909063579061432701"
-                ],
-                "id": "1909063579061432701",
-                "text": "📢&amp;TEAM 3rd SINGLE「Go in Blind (月狼)」のデジタル予約開始！\niTunes Storeでご予約いただいた方全員に、未公開カットをプレゼント🎁\n\n詳しくはこちら👉https://t.co/s2nsb7ylfV\n\n#andTEAM #GoinBlind"
-            },
-            {
-                "edit_history_tweet_ids": [
-                    "1908474707839508599"
-                ],
-                "id": "1908474707839508599",
-                "text": "[&amp;DAY ON] JO&amp;HARUA Milan VLOG\n(https://t.co/gMGW8SZoSC)\n\n#andTEAM #JO #HARUA https://t.co/xV1bP9Xrb8"
-            },
-            {
-                "edit_history_tweet_ids": [
-                    "1908444982027182196"
-                ],
-                "id": "1908444982027182196",
-                "text": "𝓭𝓻𝓲𝓯𝓽 ⚠️\n\nhttps://t.co/CcmQ58jmKJ\n\n#andTEAM #FUMA #YUMA"
-            },
-            {
-                "edit_history_tweet_ids": [
-                    "1908324272885617089"
-                ],
-                "id": "1908324272885617089",
-                "text": "RT @pop_813: #YUMA(&amp;TEAM)が世界のポップカルチャーを語る❗️\n\n今回は、Netflixで配信しているドラマ『弱いヒーロー Class 1』についてお話しました❗️\n\n👇聴き逃した方はこちらから❗️\nhttps://t.co/C0E0XsKoHe\n\n@an…"
+                ]
             }
         ],
         "meta": {
             "result_count": 5,
-            "newest_id": "1909078680703479948",
-            "oldest_id": "1908324272885617089",
-            "next_token": "7140dibdnow9c7btw4dznknjdyybivoqzvosho5b4prnd"
+            "newest_id": "1909222673424720116",
+            "oldest_id": "1909078680703479948",
+            "next_token": "7140dibdnow9c7btw4dznmrddmrc3hpucaizdtlh2kcvs"
         }
     }
 }
