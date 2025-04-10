@@ -2,46 +2,46 @@
     "latest_tweets": {
         "data": [
             {
-                "id": "1910286648773836878",
                 "edit_history_tweet_ids": [
                     "1910286648773836878"
                 ],
+                "id": "1910286648773836878",
                 "text": "&amp;TEAM 柔道部 #1｜柔道部に入部します 🥋\n(https://t.co/Cgq2QETSdf)\n\n#andTEAM https://t.co/G6Bkkov3bU"
             },
             {
-                "id": "1910285378730238154",
                 "edit_history_tweet_ids": [
                     "1910285378730238154"
                 ],
+                "id": "1910285378730238154",
                 "text": "[#今日のandTEAM] 250410\n日本テレビ系『THE突破ファイル』\n\n#突破ファイル\n#andTEAM #HARUA https://t.co/KhtK3OYlVQ"
             },
             {
-                "id": "1910284333929087203",
                 "edit_history_tweet_ids": [
                     "1910284333929087203"
                 ],
+                "id": "1910284333929087203",
                 "text": "RT @toppa_ntv: 【#突破ファイル 放送中🪭】\n \n🧑🏻草薙バイトご視聴ありがとうございました！\n\n#andTEAM #HARUA\n#宮下草薙 #古田愛理 \n\n@andTEAMofficial\n@Airi1146 https://t.co/GdU8o6dC0p"
             },
             {
-                "id": "1910272984759386359",
                 "edit_history_tweet_ids": [
                     "1910272984759386359"
                 ],
+                "id": "1910272984759386359",
                 "text": "RT @toppa_ntv: ／\nこのあと７時 #突破ファイル\n＼\nTVerリアルタイム配信📺\nhttps://t.co/YupnpaWmdr\n\n✈️空港税関\n　密輸犯が巧隠した不正薬物を暴け🐙\n　#木村昴 #高田夏帆 #田中美久\n\n🧑🏻草薙バイト\n　#andTEAM #HAR…"
             },
             {
-                "id": "1910256447218196643",
                 "edit_history_tweet_ids": [
                     "1910256447218196643"
                 ],
+                "id": "1910256447218196643",
                 "text": "『2025 &amp;TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE'』OFFICIAL MERCHANDISE事前予約販売スタート！\n\n📅2025.04.10 18:00~2025.04.16 17:59\n📍https://t.co/M5mGN3Qtkp\n\n#andTEAM\n#ASIATOUR_AWAKENTHEBLOODLINE\n#AWAKENTHEBLOODLINE_JAPAN https://t.co/EtmIxDwXCJ https://t.co/QvYrz9GPIw"
             }
         ],
         "meta": {
+            "next_token": "7140dibdnow9c7btw4e0297dgi6pm3l33g2iol51ix9gz",
             "result_count": 5,
             "newest_id": "1910286648773836878",
-            "oldest_id": "1910256447218196643",
-            "next_token": "7140dibdnow9c7btw4e0297dgi6pm3l33g2iol51ix9gz"
+            "oldest_id": "1910256447218196643"
         }
     }
 }
