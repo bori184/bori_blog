@@ -2,46 +2,46 @@
     "latest_tweets": {
         "data": [
             {
+                "id": "1917896790566977890",
                 "text": "[東京お23] EP.2-1 渋谷区編｜ミニガーデンで楽しむティータイム☕️｜自分だけの香水作り体験✨｜&amp;TEAM\n(https://t.co/xGM44joBg9)\n\n#andTEAM https://t.co/z7tdsxTg27",
                 "edit_history_tweet_ids": [
                     "1917896790566977890"
-                ],
-                "id": "1917896790566977890"
+                ]
             },
             {
+                "id": "1917882183110496490",
                 "text": "Not Baby Wolf 😎✨\n\nhttps://t.co/YCEnWQhIln\n\n#andTEAM #HARUA #HAPPY_HARUA_DAY",
                 "edit_history_tweet_ids": [
                     "1917882183110496490"
-                ],
-                "id": "1917882183110496490"
+                ]
             },
             {
+                "id": "1917873965998989318",
                 "text": "RT @asadesu0600: 5月2日(金)①\n▽#andTEAM\n「Go in Blind (月狼)」をリリースしたばかりの&amp;TEAM🐺\nメンバーの #EJ さん #YUMA さん #TAKI さんが\n#こだしぇんしぇー の放送室にやってきました🎙\n難問暗記クイズに挑戦し…",
                 "edit_history_tweet_ids": [
                     "1917873965998989318"
-                ],
-                "id": "1917873965998989318"
+                ]
             },
             {
+                "id": "1917851735646781572",
                 "text": "♥ HAPPY HARUA DAY ♥ (+KOR/JPN/CHN)\n🔗 https://t.co/10wedWHQDX\n\n#andTEAM #LUNÉ_MEMBERSHIP #HBD_HARUA",
                 "edit_history_tweet_ids": [
                     "1917851735646781572"
-                ],
-                "id": "1917851735646781572"
+                ]
             },
             {
+                "id": "1917836391578493085",
                 "text": "[MAY] Happy Birthday to LUNÉ (+KOR/JPN/CHN)\n🔗 https://t.co/7i4LUMEFEF\n\n#andTEAM #LUNÉ_MEMBERSHIP #HBD_LUNÉ",
                 "edit_history_tweet_ids": [
                     "1917836391578493085"
-                ],
-                "id": "1917836391578493085"
+                ]
             }
         ],
         "meta": {
-            "next_token": "7140dibdnow9c7btw4e02o695cwzashk06jeenm6jmwc5",
             "result_count": 5,
             "newest_id": "1917896790566977890",
-            "oldest_id": "1917836391578493085"
+            "oldest_id": "1917836391578493085",
+            "next_token": "7140dibdnow9c7btw4e02o695cwzashk06jeenm6jmwc5"
         }
     }
 }
