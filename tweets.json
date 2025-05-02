@@ -2,46 +2,46 @@
     "latest_tweets": {
         "data": [
             {
-                "id": "1918274493447066018",
+                "edit_history_tweet_ids": [
+                    "1918286502246989863"
+                ],
+                "text": "RT @ntv_withmusic: #withMUSIC コメント🎥\n￣V￣￣￣￣￣￣￣￣￣\n5/3（土）22時から放送📺🎵\n\n【&amp;TEAM】からコメント動画が到着❤️‍🔥\n\nぜひご覧ください💘🎧\n\n#andTEAM #GoinBlind\n@andTEAMofficial h…",
+                "id": "1918286502246989863"
+            },
+            {
                 "edit_history_tweet_ids": [
                     "1918274493447066018"
                 ],
-                "text": "RT @brunch_TBS: 【5/3(土)】午前の部\n\n＜エンタメコーナー＞\n&amp;TEAM Kさんがスタジオ生出演✨\n#andTEAM #K\n\n＜TVコーナー＞\n水曜日のダウンタウン\n\n＜週末トラベル＞\n大自然とグルメでパワーチャージ！\nビッグアイランド☆ハワイ島🌋☀️\n#小…"
+                "text": "RT @brunch_TBS: 【5/3(土)】午前の部\n\n＜エンタメコーナー＞\n&amp;TEAM Kさんがスタジオ生出演✨\n#andTEAM #K\n\n＜TVコーナー＞\n水曜日のダウンタウン\n\n＜週末トラベル＞\n大自然とグルメでパワーチャージ！\nビッグアイランド☆ハワイ島🌋☀️\n#小…",
+                "id": "1918274493447066018"
             },
             {
-                "id": "1918230449228575016",
                 "edit_history_tweet_ids": [
                     "1918230449228575016"
                 ],
-                "text": "RT @_mmtshop: 📣 #앤팀 싱글앨범 3집 'Go in Blind' 온라인 &amp; 오프라인 럭키드로우 이벤트 오픈!\n\n📅 4월 30일 (수) ~ 5월 6일 (화)\n🎁 MMT 특전 포토카드\n\n💻 온라인 : 4월 30일 (수) 오전 10시  ~ 5월…"
+                "text": "RT @_mmtshop: 📣 #앤팀 싱글앨범 3집 'Go in Blind' 온라인 &amp; 오프라인 럭키드로우 이벤트 오픈!\n\n📅 4월 30일 (수) ~ 5월 6일 (화)\n🎁 MMT 특전 포토카드\n\n💻 온라인 : 4월 30일 (수) 오전 10시  ~ 5월…",
+                "id": "1918230449228575016"
             },
             {
-                "id": "1918228985114398783",
                 "edit_history_tweet_ids": [
                     "1918228985114398783"
                 ],
-                "text": "『2025 &amp;TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE' in JAPAN』愛知公演 &amp;TEAM OFFICIAL FANCLUB LUNÉ MEMBERSHIPブース運営時間・特典受け取りサイト予約方法のご案内\n\n詳しくはこちら👉https://t.co/ZExTgar0rG\n\n#andTEAM\n#ASIATOUR_AWAKENTHEBLOODLINE\n#AWAKENTHEBLOODLINE_JAPAN\n#LUNÉ_MEMBERSHIP"
+                "text": "『2025 &amp;TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE' in JAPAN』愛知公演 &amp;TEAM OFFICIAL FANCLUB LUNÉ MEMBERSHIPブース運営時間・特典受け取りサイト予約方法のご案内\n\n詳しくはこちら👉https://t.co/ZExTgar0rG\n\n#andTEAM\n#ASIATOUR_AWAKENTHEBLOODLINE\n#AWAKENTHEBLOODLINE_JAPAN\n#LUNÉ_MEMBERSHIP",
+                "id": "1918228985114398783"
             },
             {
-                "id": "1918216398230437960",
                 "edit_history_tweet_ids": [
                     "1918216398230437960"
                 ],
-                "text": "『2025 &amp;TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE' in JAPAN』ではOFFICIAL LIGHT STICKの電源を入れるだけ(上のボタン長押し)で公演の演出にご参加いただけます。\n\n#andTEAM\n#ASIATOUR_AWAKENTHEBLOODLINE\n#AWAKENTHEBLOODLINE_JAPAN https://t.co/JWK3VmUQos https://t.co/mPW1wyPyOT"
-            },
-            {
-                "id": "1918213879538049510",
-                "edit_history_tweet_ids": [
-                    "1918213879538049510"
-                ],
-                "text": "『2025 &amp;TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE'』OFFICIAL MERCHANDISEの会場販売およびOFFICIAL LIGHT STICKサポートブース運営に関するご案内\n\n詳しくはこちら👉https://t.co/bfAdOGChT3\n\nLUNÉのみなさんのご来場をお待ちしております！\n\n#andTEAM\n#ASIATOUR_AWAKENTHEBLOODLINE https://t.co/Vz2MMtdzDl"
+                "text": "『2025 &amp;TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE' in JAPAN』ではOFFICIAL LIGHT STICKの電源を入れるだけ(上のボタン長押し)で公演の演出にご参加いただけます。\n\n#andTEAM\n#ASIATOUR_AWAKENTHEBLOODLINE\n#AWAKENTHEBLOODLINE_JAPAN https://t.co/JWK3VmUQos https://t.co/mPW1wyPyOT",
+                "id": "1918216398230437960"
             }
         ],
         "meta": {
-            "next_token": "7140dibdnow9c7btw4e02q96h2qw00blinh29xo2kkhf4",
             "result_count": 5,
-            "newest_id": "1918274493447066018",
-            "oldest_id": "1918213879538049510"
+            "newest_id": "1918286502246989863",
+            "oldest_id": "1918216398230437960",
+            "next_token": "7140dibdnow9c7btw4e02q96h3ds6rgptrdparg0c8b3k"
         }
     }
 }
