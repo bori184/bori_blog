@@ -2,46 +2,46 @@
     "latest_tweets": {
         "data": [
             {
-                "id": "1918636664890511377",
-                "text": "[#今日のandTEAM] 250503\nRakuten GirlsAward 2025 S/S\n\n#ガルアワ #ガルアワ2025SS\n#andTEAM https://t.co/kDBD1okSK5",
+                "edit_history_tweet_ids": [
+                    "1918687610345496628"
+                ],
+                "id": "1918687610345496628",
+                "text": "RT @TVTOKYOanime_PR: °˖✧°˖✧HAPPY BIRTHDAY✧˖°✧˖°\n\n今日5月4日は\n&amp;TEAM TAKI くんの20歳のお誕生日🎉\n\n今日あさ7時30分からの #ポケモンとどこいく ！？に登場するよ🎊\n３人のポケモントークと\n20歳の #TAKI…"
+            },
+            {
+                "edit_history_tweet_ids": [
+                    "1918681961813487617"
+                ],
+                "id": "1918681961813487617",
+                "text": "🎉HAPPY BIRTHDAY TAKI🎂\n2025.5.4\n\n#HAPPY_TAKI_DAY\n#andTEAM\n#TAKI https://t.co/QbDCsYUVkv"
+            },
+            {
+                "edit_history_tweet_ids": [
+                    "1918665599015604315"
+                ],
+                "id": "1918665599015604315",
+                "text": "[#今日のandTEAM] 250503\n日本テレビ系『with MUSIC』\n\n#withMUSIC\n#andTEAM\n#GoinBlind\n#Under_the_skin https://t.co/KwFPgNelGb"
+            },
+            {
+                "edit_history_tweet_ids": [
+                    "1918661094459261014"
+                ],
+                "id": "1918661094459261014",
+                "text": "RT @ntv_withmusic: ／／ \nまもなく登場🎤\n＼＼\n\n&amp;TEAMのバックステージフォトをお届け📷❤️‍🔥\n\n#TVer でリアルタイム配信中📡\nhttps://t.co/BKyaXvVBQt\n\n#withMUSIC\n#andTEAM #GoinBlind\n@an…"
+            },
+            {
                 "edit_history_tweet_ids": [
                     "1918636664890511377"
-                ]
-            },
-            {
-                "id": "1918606461602545777",
-                "text": "[#今日のandTEAM] 250503\nテレビ静岡『くさデカ』\n\n#くさデカ\n#andTEAM #FUMA https://t.co/CvBy9dQeQU",
-                "edit_history_tweet_ids": [
-                    "1918606461602545777"
-                ]
-            },
-            {
-                "id": "1918605712185282588",
-                "text": "RT @1179mbs: 🐺🐺🐺🐺🐺🐺🐺🐺🐺\n&amp;TEAMのGo in Blind (月狼)ラジオ\n🌙・・ ┈┈ ・・🌙\n\n　　\\\\ 今夜𝟐𝟎時ー //\nhttps://t.co/NbPCt2Woc9\n\n📻出演\n#andTEAM(@andTEAMofficial)\n#K #NIC…",
-                "edit_history_tweet_ids": [
-                    "1918605712185282588"
-                ]
-            },
-            {
-                "id": "1918540841754476727",
-                "text": "RT @athleteboo: 本日応援サポーター就任が\n発表されたK(&amp;TEAM)さんが、\n\n『Tokyo : Speed : Race』\n@明治神宮外苑総合球技場 に\nサプライズで登場🏃‍♀️‍➡️✨✨\n\n5kmをしっかりと完走！😳\n見事な走りを見せてくれました👏🏻\n\n#世…",
-                "edit_history_tweet_ids": [
-                    "1918540841754476727"
-                ]
-            },
-            {
-                "id": "1918540826113982577",
-                "text": "RT @athleteboo: |◤            K(&amp;TEAM)👑💚\n      応援サポーター就任コメント✨  ◢||\n\n#世界陸上 TBS応援サポーターに\n就任したKからコメントが到着！！\n\n🎥SPインタビュー\nhttps://t.co/ojII8M7H5K…",
-                "edit_history_tweet_ids": [
-                    "1918540826113982577"
-                ]
+                ],
+                "id": "1918636664890511377",
+                "text": "[#今日のandTEAM] 250503\nRakuten GirlsAward 2025 S/S\n\n#ガルアワ #ガルアワ2025SS\n#andTEAM https://t.co/kDBD1okSK5"
             }
         ],
         "meta": {
+            "next_token": "7140dibdnow9c7btw4e02qadpu4oam8xpa7n2mujfil9z",
             "result_count": 5,
-            "newest_id": "1918636664890511377",
-            "oldest_id": "1918540826113982577",
-            "next_token": "7140dibdnow9c7btw4e02qa2yw3kb7b6w560rbrh7kchj"
+            "newest_id": "1918687610345496628",
+            "oldest_id": "1918636664890511377"
         }
     }
 }
