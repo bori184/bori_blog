@@ -2,46 +2,46 @@
     "latest_tweets": {
         "data": [
             {
+                "id": "1918636664890511377",
+                "text": "[#今日のandTEAM] 250503\nRakuten GirlsAward 2025 S/S\n\n#ガルアワ #ガルアワ2025SS\n#andTEAM https://t.co/kDBD1okSK5",
+                "edit_history_tweet_ids": [
+                    "1918636664890511377"
+                ]
+            },
+            {
+                "id": "1918606461602545777",
+                "text": "[#今日のandTEAM] 250503\nテレビ静岡『くさデカ』\n\n#くさデカ\n#andTEAM #FUMA https://t.co/CvBy9dQeQU",
+                "edit_history_tweet_ids": [
+                    "1918606461602545777"
+                ]
+            },
+            {
+                "id": "1918605712185282588",
+                "text": "RT @1179mbs: 🐺🐺🐺🐺🐺🐺🐺🐺🐺\n&amp;TEAMのGo in Blind (月狼)ラジオ\n🌙・・ ┈┈ ・・🌙\n\n　　\\\\ 今夜𝟐𝟎時ー //\nhttps://t.co/NbPCt2Woc9\n\n📻出演\n#andTEAM(@andTEAMofficial)\n#K #NIC…",
+                "edit_history_tweet_ids": [
+                    "1918605712185282588"
+                ]
+            },
+            {
+                "id": "1918540841754476727",
                 "text": "RT @athleteboo: 本日応援サポーター就任が\n発表されたK(&amp;TEAM)さんが、\n\n『Tokyo : Speed : Race』\n@明治神宮外苑総合球技場 に\nサプライズで登場🏃‍♀️‍➡️✨✨\n\n5kmをしっかりと完走！😳\n見事な走りを見せてくれました👏🏻\n\n#世…",
                 "edit_history_tweet_ids": [
                     "1918540841754476727"
-                ],
-                "id": "1918540841754476727"
+                ]
             },
             {
+                "id": "1918540826113982577",
                 "text": "RT @athleteboo: |◤            K(&amp;TEAM)👑💚\n      応援サポーター就任コメント✨  ◢||\n\n#世界陸上 TBS応援サポーターに\n就任したKからコメントが到着！！\n\n🎥SPインタビュー\nhttps://t.co/ojII8M7H5K…",
                 "edit_history_tweet_ids": [
                     "1918540826113982577"
-                ],
-                "id": "1918540826113982577"
-            },
-            {
-                "text": "RT @athleteboo: ＼＼\\📣BIG NEWS📣/／／\n\nTBS世界陸上応援サポーターに\nK(＆TEAM)の就任が決定👑✨✨\n　━━━━━━━━━━━\n\n9月13日開幕！\n34年ぶりの東京開催の #世界陸上 を\n＆TEAMのKが熱く盛り上げる❤️‍🔥\n\nKと一緒に国立…",
-                "edit_history_tweet_ids": [
-                    "1918540806576865367"
-                ],
-                "id": "1918540806576865367"
-            },
-            {
-                "text": "[#今日のandTEAM] 250503\n✓TBS系『王様のブランチ』\n✓Tokyo：Speed：Race\n\n#東京2025世界陸上\n#WCHTokyo25\n#王様のブランチ\n#TokyoSpeedRace\n#andTEAM #K https://t.co/lszsUVcQPV",
-                "edit_history_tweet_ids": [
-                    "1918523411174965601"
-                ],
-                "id": "1918523411174965601"
-            },
-            {
-                "text": "Go in Blind🏴 with #HAMIN\n\nhttps://t.co/LuQEFTHAn0\n\n#PLAVE #플레이브 #하민 @plave_official\n#andTEAM #앤팀 #GoinBlind #NICHOLAS",
-                "edit_history_tweet_ids": [
-                    "1918501958773539234"
-                ],
-                "id": "1918501958773539234"
+                ]
             }
         ],
         "meta": {
-            "next_token": "7140dibdnow9c7btw4e02qa2sttml8s7j0m8jxc4ihaus",
             "result_count": 5,
-            "newest_id": "1918540841754476727",
-            "oldest_id": "1918501958773539234"
+            "newest_id": "1918636664890511377",
+            "oldest_id": "1918540826113982577",
+            "next_token": "7140dibdnow9c7btw4e02qa2yw3kb7b6w560rbrh7kchj"
         }
     }
 }
