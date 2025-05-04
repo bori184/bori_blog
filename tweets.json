@@ -2,46 +2,46 @@
     "latest_tweets": {
         "data": [
             {
+                "id": "1918878425244406138",
+                "text": "Smile for LUNÉ😉💕\n\nhttps://t.co/8T2R6NMa25\n\n#andTEAM #TAKI #HAPPY_TAKI_DAY",
+                "edit_history_tweet_ids": [
+                    "1918878425244406138"
+                ]
+            },
+            {
+                "id": "1918863509116657719",
+                "text": "🐣🍩💞\n\nhttps://t.co/XboaHYOaxl\n\n#andTEAM #TAKI #HAPPY_TAKI_DAY",
+                "edit_history_tweet_ids": [
+                    "1918863509116657719"
+                ]
+            },
+            {
+                "id": "1918836779941302519",
+                "text": "RT @AJINOMOTOPARK: 🎉 &amp;TEAM TAKIさん HAPPY BIRTHDAY 🎉\n\nいつも笑顔のTAKIさん。Cook Do® KOREA! 豆腐チゲ用を食べる姿にスタジオ内も皆が笑顔になりました😊\n\nアジパンダがお祝いにPhotoismまでかけつけ、TAK…",
                 "edit_history_tweet_ids": [
                     "1918836779941302519"
-                ],
-                "id": "1918836779941302519",
-                "text": "RT @AJINOMOTOPARK: 🎉 &amp;TEAM TAKIさん HAPPY BIRTHDAY 🎉\n\nいつも笑顔のTAKIさん。Cook Do® KOREA! 豆腐チゲ用を食べる姿にスタジオ内も皆が笑顔になりました😊\n\nアジパンダがお祝いにPhotoismまでかけつけ、TAK…"
+                ]
             },
             {
+                "id": "1918810302063276269",
+                "text": "[#今日のandTEAM] 250504\nテレビ東京系『ポケモンとどこいく！？』\n\n#ポケどこ\n#andTEAM #FUMA #JO #TAKI https://t.co/Tmjrjqyh8V",
                 "edit_history_tweet_ids": [
                     "1918810302063276269"
-                ],
-                "id": "1918810302063276269",
-                "text": "[#今日のandTEAM] 250504\nテレビ東京系『ポケモンとどこいく！？』\n\n#ポケどこ\n#andTEAM #FUMA #JO #TAKI https://t.co/Tmjrjqyh8V"
+                ]
             },
             {
+                "id": "1918687610345496628",
+                "text": "RT @TVTOKYOanime_PR: °˖✧°˖✧HAPPY BIRTHDAY✧˖°✧˖°\n\n今日5月4日は\n&amp;TEAM TAKI くんの20歳のお誕生日🎉\n\n今日あさ7時30分からの #ポケモンとどこいく ！？に登場するよ🎊\n３人のポケモントークと\n20歳の #TAKI…",
                 "edit_history_tweet_ids": [
                     "1918687610345496628"
-                ],
-                "id": "1918687610345496628",
-                "text": "RT @TVTOKYOanime_PR: °˖✧°˖✧HAPPY BIRTHDAY✧˖°✧˖°\n\n今日5月4日は\n&amp;TEAM TAKI くんの20歳のお誕生日🎉\n\n今日あさ7時30分からの #ポケモンとどこいく ！？に登場するよ🎊\n３人のポケモントークと\n20歳の #TAKI…"
-            },
-            {
-                "edit_history_tweet_ids": [
-                    "1918681961813487617"
-                ],
-                "id": "1918681961813487617",
-                "text": "🎉HAPPY BIRTHDAY TAKI🎂\n2025.5.4\n\n#HAPPY_TAKI_DAY\n#andTEAM\n#TAKI https://t.co/QbDCsYUVkv"
-            },
-            {
-                "edit_history_tweet_ids": [
-                    "1918665599015604315"
-                ],
-                "id": "1918665599015604315",
-                "text": "[#今日のandTEAM] 250503\n日本テレビ系『with MUSIC』\n\n#withMUSIC\n#andTEAM\n#GoinBlind\n#Under_the_skin https://t.co/KwFPgNelGb"
+                ]
             }
         ],
         "meta": {
+            "next_token": "7140dibdnow9c7btw4e02qadxfgez5aithe7a8gt1l1yw",
             "result_count": 5,
-            "newest_id": "1918836779941302519",
-            "oldest_id": "1918665599015604315",
-            "next_token": "7140dibdnow9c7btw4e02qaduds77fd0n92o595nhebzp"
+            "newest_id": "1918878425244406138",
+            "oldest_id": "1918687610345496628"
         }
     }
 }
