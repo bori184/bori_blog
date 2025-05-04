@@ -3,6 +3,20 @@
         "data": [
             {
                 "edit_history_tweet_ids": [
+                    "1918836779941302519"
+                ],
+                "id": "1918836779941302519",
+                "text": "RT @AJINOMOTOPARK: 🎉 &amp;TEAM TAKIさん HAPPY BIRTHDAY 🎉\n\nいつも笑顔のTAKIさん。Cook Do® KOREA! 豆腐チゲ用を食べる姿にスタジオ内も皆が笑顔になりました😊\n\nアジパンダがお祝いにPhotoismまでかけつけ、TAK…"
+            },
+            {
+                "edit_history_tweet_ids": [
+                    "1918810302063276269"
+                ],
+                "id": "1918810302063276269",
+                "text": "[#今日のandTEAM] 250504\nテレビ東京系『ポケモンとどこいく！？』\n\n#ポケどこ\n#andTEAM #FUMA #JO #TAKI https://t.co/Tmjrjqyh8V"
+            },
+            {
+                "edit_history_tweet_ids": [
                     "1918687610345496628"
                 ],
                 "id": "1918687610345496628",
@@ -21,27 +35,13 @@
                 ],
                 "id": "1918665599015604315",
                 "text": "[#今日のandTEAM] 250503\n日本テレビ系『with MUSIC』\n\n#withMUSIC\n#andTEAM\n#GoinBlind\n#Under_the_skin https://t.co/KwFPgNelGb"
-            },
-            {
-                "edit_history_tweet_ids": [
-                    "1918661094459261014"
-                ],
-                "id": "1918661094459261014",
-                "text": "RT @ntv_withmusic: ／／ \nまもなく登場🎤\n＼＼\n\n&amp;TEAMのバックステージフォトをお届け📷❤️‍🔥\n\n#TVer でリアルタイム配信中📡\nhttps://t.co/BKyaXvVBQt\n\n#withMUSIC\n#andTEAM #GoinBlind\n@an…"
-            },
-            {
-                "edit_history_tweet_ids": [
-                    "1918636664890511377"
-                ],
-                "id": "1918636664890511377",
-                "text": "[#今日のandTEAM] 250503\nRakuten GirlsAward 2025 S/S\n\n#ガルアワ #ガルアワ2025SS\n#andTEAM https://t.co/kDBD1okSK5"
             }
         ],
         "meta": {
-            "next_token": "7140dibdnow9c7btw4e02qadpu4oam8xpa7n2mujfil9z",
             "result_count": 5,
-            "newest_id": "1918687610345496628",
-            "oldest_id": "1918636664890511377"
+            "newest_id": "1918836779941302519",
+            "oldest_id": "1918665599015604315",
+            "next_token": "7140dibdnow9c7btw4e02qaduds77fd0n92o595nhebzp"
         }
     }
 }
