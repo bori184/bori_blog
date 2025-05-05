@@ -2,46 +2,46 @@
     "latest_tweets": {
         "data": [
             {
-                "text": "RT @paripikoumei_cx: /／\n　 【‼期間限定‼】\n✨週替わり特典映像✨\n　  　 上映決定！\n\\＼\n\n本作上映劇場すべてで特典映像を上映します！\n\n🤟5/9（金）～5/15（木）\n「キックオフパーティー Exclusive Footage Vol.1」\n 2…",
+                "edit_history_tweet_ids": [
+                    "1919369620815057302"
+                ],
+                "id": "1919369620815057302",
+                "text": "RT @AWA_official: &amp;TEAM(@andTEAMofficial)\nAWAラウンジのリスニングパーティDAY3がスタート📢\n\n22:30まで開催中！\n\n「ファンラウンジ開催キャンペーン」でカムバを盛り上げたLUNÉのみなさまへ、メンバーからの限定ボイスもオンエア…"
+            },
+            {
+                "edit_history_tweet_ids": [
+                    "1919347780796948844"
+                ],
+                "id": "1919347780796948844",
+                "text": "Shake it to the max🎵\n\nhttps://t.co/wco5jBYmj8\n\n#andTEAM #NICHOLAS"
+            },
+            {
+                "edit_history_tweet_ids": [
+                    "1919323996685844699"
+                ],
+                "id": "1919323996685844699",
+                "text": "闇の中駆け出して🏃🏻‍♂️💨 Go in Blind🖤\n\nhttps://t.co/YOawquXOJq\n\n#EPEX #이펙스 #BAEKSEUNG #백승 @the_EPEX \n#andTEAM #앤팀 #GoinBlind #JO"
+            },
+            {
                 "edit_history_tweet_ids": [
                     "1919263614487466053"
                 ],
-                "id": "1919263614487466053"
+                "id": "1919263614487466053",
+                "text": "RT @paripikoumei_cx: /／\n　 【‼期間限定‼】\n✨週替わり特典映像✨\n　  　 上映決定！\n\\＼\n\n本作上映劇場すべてで特典映像を上映します！\n\n🤟5/9（金）～5/15（木）\n「キックオフパーティー Exclusive Footage Vol.1」\n 2…"
             },
             {
-                "text": "RT @AWA_official: &amp;TEAM(@andTEAMofficial)\nAWAラウンジのリスニングパーティDAY3は今夜開催📢\n\n🗓5/5(月・祝) 21:30〜22:30\n\nメンバーからLUNÉのみなさまに向けた限定ボイスもオンエア🎤\n\n「ファンラウンジ開催キャン…",
                 "edit_history_tweet_ids": [
                     "1919243358070833300"
                 ],
-                "id": "1919243358070833300"
-            },
-            {
-                "text": "／\n『2025 &amp;TEAM CONCERT TOUR ‘AWAKEN THE BLOODLINE’ in JAPAN』会場CD販売限定・購入特典決定！\n＼\n\nCD購入につき会場別絵柄のフォトカードを1枚プレゼント！\nさらに、当日の公演後ハイタッチ会参加や限定フォトカードセットが当たる抽選会も開催📢\n\n詳しくはこちら👉https://t.co/Wk45IANZir",
-                "edit_history_tweet_ids": [
-                    "1919210442636787974"
-                ],
-                "id": "1919210442636787974"
-            },
-            {
-                "text": "RT @cx_mezamashi: あす5日(月)の #めざましテレビ エンタメPick Up☝️\n\nGirlsAward に出演した &amp;TEAM (#andTEAM)のみなさんにインタビュー🎤\n先月のめざましテレビ生出演でハプニングが起きた #K さん😳\n他のメンバーにプライ…",
-                "edit_history_tweet_ids": [
-                    "1918995750295388584"
-                ],
-                "id": "1918995750295388584"
-            },
-            {
-                "text": "♥ HAPPY TAKI DAY ♥ (+KOR/JPN/CHN)\n🔗 https://t.co/eUI71Yez85\n\n#andTEAM #LUNÉ_MEMBERSHIP #HBD_TAKI",
-                "edit_history_tweet_ids": [
-                    "1918939654369452353"
-                ],
-                "id": "1918939654369452353"
+                "id": "1919243358070833300",
+                "text": "RT @AWA_official: &amp;TEAM(@andTEAMofficial)\nAWAラウンジのリスニングパーティDAY3は今夜開催📢\n\n🗓5/5(月・祝) 21:30〜22:30\n\nメンバーからLUNÉのみなさまに向けた限定ボイスもオンエア🎤\n\n「ファンラウンジ開催キャン…"
             }
         ],
         "meta": {
-            "next_token": "7140dibdnow9c7btw4e02qba34w79zo62p0veoj4q05df",
             "result_count": 5,
-            "newest_id": "1919263614487466053",
-            "oldest_id": "1918939654369452353"
+            "newest_id": "1919369620815057302",
+            "oldest_id": "1919243358070833300",
+            "next_token": "7140dibdnow9c7btw4e02sdwqykkgun6949na5voivbxs"
         }
     }
 }
